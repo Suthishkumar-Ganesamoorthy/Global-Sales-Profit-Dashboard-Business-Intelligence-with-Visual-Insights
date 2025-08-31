@@ -19,7 +19,7 @@ This interactive dashboard provides a comprehensive overview of sales and profit
 - Average Discount: 15%
 
 ## 📷 Dashboard Preview
-*(Insert image here)*
+<img width="1169" height="664" alt="Screenshot 2025-08-06 090758" src="https://github.com/user-attachments/assets/18a5c68c-904a-468d-8396-1956fd22e3c3" />
 
 ## 🚀 Purpose
 Designed to help businesses identify high-performing regions, optimize product strategies, and monitor monthly trends.
