@@ -1,0 +1,1001 @@
+Order ID,Customer Name,Segment,Country,Region,Product Category,Product Name,Sales,Quantity,Discount,Profit,Order Date
+ORD-1001,Jennifer Davis,Home Office,United States,East,Technology,Printer,372.43,4,0.22,81.63,2023-02-05
+ORD-1002,Jennifer Wright,Home Office,United States,South,Furniture,Chair,199.12,2,0.15,11.28,2023-04-15
+ORD-1003,Jeffrey Williams,Consumer,Australia,South,Furniture,Sofa,1082.69,10,0.26,259.52,2023-03-26
+ORD-1004,Nathan Sampson,Consumer,Australia,South,Office Supplies,Pen,266.81,3,0.23,20.16,2023-11-01
+ORD-1005,Rebecca Nguyen,Corporate,United States,Central,Office Supplies,Pen,308.76,1,0.16,90.55,2023-03-15
+ORD-1006,Kristen Griffith DDS,Corporate,United States,Central,Technology,Printer,1021.36,10,0.02,219.91,2023-12-11
+ORD-1007,Ashley Campbell,Corporate,United States,West,Furniture,Sofa,870.64,5,0.25,78.94,2023-11-26
+ORD-1008,Wyatt Gutierrez,Corporate,Canada,Central,Technology,Laptop,2697.58,10,0.16,299.98,2023-04-24
+ORD-1009,Misty Smith,Corporate,Germany,Central,Technology,Monitor,1954.26,6,0.23,209.62,2023-04-29
+ORD-1010,Grace Butler,Consumer,United Kingdom,South,Office Supplies,Paper,1518.7,4,0.17,348.51,2023-11-14
+ORD-1011,Michael Benson,Consumer,Australia,South,Office Supplies,Stapler,390.01,3,0.07,74.24,2023-07-12
+ORD-1012,Doris Ray,Corporate,Australia,South,Technology,Phone,493.37,6,0.3,87.51,2023-11-07
+ORD-1013,Troy Miller,Consumer,United States,East,Furniture,Table,1861.8,7,0.12,370.45,2023-01-25
+ORD-1014,Kimberly Mendoza,Corporate,France,Central,Technology,Laptop,577.99,2,0.16,67.46,2023-01-28
+ORD-1015,Edward Rivers,Home Office,United Kingdom,East,Office Supplies,Stapler,494.84,3,0.29,133.09,2023-12-14
+ORD-1016,Matthew Guzman MD,Corporate,France,West,Technology,Laptop,1795.28,5,0.15,179.04,2023-03-15
+ORD-1017,David Day,Corporate,Canada,East,Technology,Printer,112.55,8,0.28,30.35,2023-02-13
+ORD-1018,Donald Hall,Corporate,Canada,East,Furniture,Chair,560.32,2,0.24,165.01,2023-06-06
+ORD-1019,Crystal Harris,Home Office,Canada,West,Technology,Phone,687.28,9,0.16,138.59,2023-01-15
+ORD-1020,Christopher Hays,Consumer,France,West,Technology,Printer,2821.51,7,0.19,450.1,2023-03-10
+ORD-1021,Joshua Jackson,Home Office,Germany,East,Furniture,Table,288.08,2,0.18,30.98,2023-04-15
+ORD-1022,Andrew Ward,Consumer,United States,East,Technology,Laptop,170.4,4,0.01,22.6,2023-04-06
+ORD-1023,Mary Joyce,Home Office,Canada,Central,Technology,Phone,855.57,4,0.22,231.51,2023-12-06
+ORD-1024,Ryan Mitchell,Home Office,Germany,West,Office Supplies,Stapler,179.9,4,0.2,24.93,2023-05-30
+ORD-1025,Kenneth Bean,Corporate,Germany,East,Technology,Laptop,186.55,1,0.1,49.51,2023-10-03
+ORD-1026,Peter Johnson,Consumer,Canada,West,Technology,Phone,598.15,3,0.08,67.26,2023-03-17
+ORD-1027,Peter Garner,Consumer,Germany,East,Furniture,Chair,695.88,2,0.25,63.73,2023-01-12
+ORD-1028,Taylor Davis,Corporate,Germany,West,Office Supplies,Paper,410.97,3,0.3,47.8,2023-09-17
+ORD-1029,Jessica Jones,Corporate,United Kingdom,South,Technology,Phone,287.51,3,0.07,18.58,2023-11-10
+ORD-1030,Theresa Cunningham,Home Office,France,East,Technology,Printer,29.73,1,0.14,8.32,2023-02-18
+ORD-1031,Brian Lee,Home Office,Canada,East,Technology,Laptop,128.13,3,0.02,34.01,2023-07-17
+ORD-1032,Jessica Costa,Corporate,United States,West,Technology,Laptop,401.36,10,0.2,76.78,2023-07-14
+ORD-1033,Michael Le,Corporate,United Kingdom,West,Technology,Printer,538.18,4,0.04,113.76,2023-11-13
+ORD-1034,Raymond Harris Jr.,Corporate,United Kingdom,East,Furniture,Sofa,3494.68,10,0.3,238.74,2023-04-30
+ORD-1035,Jose Terrell,Consumer,France,Central,Furniture,Bookcase,784.7,2,0.11,70.18,2023-09-28
+ORD-1036,Angela Moore,Home Office,Australia,Central,Technology,Laptop,1128.24,9,0.2,321.25,2023-06-07
+ORD-1037,Ryan Washington,Consumer,United Kingdom,East,Furniture,Table,695.88,5,0.06,94.44,2023-03-04
+ORD-1038,Savannah Richards,Home Office,Australia,Central,Technology,Phone,1701.04,5,0.25,124.3,2023-08-21
+ORD-1039,Linda Clark MD,Corporate,United Kingdom,East,Furniture,Bookcase,889.24,3,0.08,209.25,2023-12-09
+ORD-1040,Howard Berry,Home Office,Australia,South,Technology,Laptop,69.37,2,0.26,19.14,2023-12-29
+ORD-1041,Suzanne Guerrero,Home Office,United States,Central,Technology,Monitor,461.51,7,0.09,126.8,2023-10-20
+ORD-1042,James Holmes,Consumer,United Kingdom,West,Technology,Monitor,304.28,2,0.17,81.75,2023-01-26
+ORD-1043,Courtney Harrison,Home Office,Australia,West,Furniture,Table,1312.41,3,0.01,307.29,2023-11-02
+ORD-1044,Kelly Levy,Corporate,Germany,West,Office Supplies,Binder,390.95,2,0.01,65.55,2023-05-30
+ORD-1045,Daniel Conway,Consumer,Germany,Central,Office Supplies,Binder,81.22,4,0.06,10.73,2023-03-11
+ORD-1046,Alexis Rios,Consumer,United Kingdom,Central,Technology,Phone,1534.84,9,0.01,413.27,2023-03-19
+ORD-1047,Bridget Wells,Corporate,Canada,Central,Furniture,Chair,1738.93,10,0.22,223.31,2023-10-28
+ORD-1048,Vicki Blackwell,Home Office,France,East,Office Supplies,Binder,138.11,5,0.13,24.86,2023-02-16
+ORD-1049,Andrea Mclaughlin,Home Office,Australia,West,Office Supplies,Stapler,683.93,2,0.28,140.75,2023-12-16
+ORD-1050,Brendan West,Home Office,United States,Central,Technology,Printer,939.16,7,0.21,177.13,2023-09-19
+ORD-1051,Wanda Anderson,Consumer,Germany,South,Technology,Monitor,2541.97,10,0.12,656.92,2023-06-13
+ORD-1052,Michael Wiggins,Corporate,United Kingdom,West,Office Supplies,Pen,1449.47,8,0.2,257.71,2023-09-08
+ORD-1053,Jasmine David,Home Office,Canada,East,Office Supplies,Pen,632.99,2,0.23,138.12,2023-08-17
+ORD-1054,Robert Bates,Consumer,Canada,West,Furniture,Chair,1614.19,4,0.18,390.83,2023-05-10
+ORD-1055,Bryan Rodriguez,Corporate,Germany,West,Technology,Phone,1580.77,8,0.04,350.78,2023-07-23
+ORD-1056,Joy Perry,Consumer,Germany,West,Furniture,Sofa,203.85,1,0.28,16.38,2023-11-19
+ORD-1057,Sarah Byrd,Consumer,Germany,Central,Office Supplies,Stapler,1953.67,9,0.05,518.45,2023-09-10
+ORD-1058,Patrick Fitzpatrick,Corporate,United Kingdom,West,Technology,Printer,2071.16,9,0.07,331.32,2023-04-06
+ORD-1059,Gregory Vargas,Home Office,United Kingdom,West,Office Supplies,Pen,2631.77,6,0.02,230.83,2023-12-01
+ORD-1060,Claudia Sanchez,Corporate,Australia,West,Technology,Monitor,383.92,2,0.1,63.92,2023-10-26
+ORD-1061,Jessica Smith,Consumer,Canada,South,Office Supplies,Paper,1963.9,10,0.0,270.9,2023-02-05
+ORD-1062,Matthew Lee,Corporate,Germany,West,Office Supplies,Binder,1106.62,5,0.01,148.32,2023-08-26
+ORD-1063,Patrick Preston,Home Office,Germany,West,Office Supplies,Binder,1983.56,10,0.27,392.69,2023-10-21
+ORD-1064,Sara Hurley,Home Office,United States,East,Technology,Phone,1239.07,3,0.05,142.54,2023-04-25
+ORD-1065,Michael Bailey,Corporate,Canada,South,Office Supplies,Pen,727.36,7,0.29,113.03,2023-07-01
+ORD-1066,Joshua Solomon,Consumer,Germany,East,Technology,Laptop,704.84,6,0.02,203.93,2023-07-27
+ORD-1067,Julie Christensen,Consumer,United States,West,Furniture,Chair,812.83,10,0.04,176.68,2023-10-15
+ORD-1068,Jamie King,Home Office,Canada,South,Technology,Printer,453.72,6,0.18,107.52,2023-03-31
+ORD-1069,Matthew Donovan,Consumer,Canada,Central,Furniture,Chair,1066.31,5,0.27,153.36,2023-09-20
+ORD-1070,Caleb Huff,Home Office,Canada,East,Technology,Monitor,639.95,2,0.09,141.47,2023-06-07
+ORD-1071,Jerry Ball,Consumer,France,East,Office Supplies,Stapler,212.82,6,0.19,11.31,2023-07-12
+ORD-1072,Brittany Mcpherson,Corporate,Germany,East,Office Supplies,Pen,2481.8,8,0.13,579.37,2023-03-23
+ORD-1073,Diana Stewart,Home Office,United Kingdom,South,Office Supplies,Stapler,1047.17,10,0.26,269.84,2023-09-25
+ORD-1074,Jason Russell,Consumer,United Kingdom,South,Furniture,Sofa,2750.63,10,0.11,157.27,2023-09-25
+ORD-1075,Cindy Compton,Corporate,Canada,South,Furniture,Bookcase,654.05,5,0.26,147.35,2023-10-25
+ORD-1076,Jason Gaines,Corporate,France,East,Technology,Monitor,225.74,2,0.12,42.62,2023-04-29
+ORD-1077,Tanner Douglas,Consumer,Australia,South,Technology,Phone,3092.67,8,0.03,325.96,2023-08-17
+ORD-1078,Larry Smith,Home Office,Canada,Central,Technology,Printer,2024.64,8,0.1,605.69,2023-12-16
+ORD-1079,Lisa Bates,Home Office,United Kingdom,Central,Technology,Phone,745.16,5,0.07,171.63,2023-07-14
+ORD-1080,Joe Williams,Corporate,United States,West,Furniture,Table,954.35,8,0.18,229.09,2023-08-01
+ORD-1081,Andrew Jackson,Home Office,United Kingdom,East,Furniture,Bookcase,680.06,4,0.09,154.38,2023-10-12
+ORD-1082,Christopher Austin,Consumer,United Kingdom,East,Furniture,Bookcase,745.11,3,0.23,56.37,2023-11-26
+ORD-1083,Jeffrey Miles,Consumer,France,Central,Office Supplies,Stapler,1005.08,8,0.29,113.69,2023-06-04
+ORD-1084,David Smith MD,Corporate,United States,East,Office Supplies,Stapler,462.53,2,0.21,40.67,2023-01-02
+ORD-1085,Jean Ray,Home Office,United Kingdom,East,Furniture,Chair,2838.2,9,0.18,702.98,2023-09-29
+ORD-1086,Michael Hoffman,Consumer,France,South,Office Supplies,Stapler,1510.18,5,0.3,190.8,2023-08-03
+ORD-1087,Gina Trujillo,Home Office,United States,East,Furniture,Table,1584.65,5,0.05,148.09,2023-06-12
+ORD-1088,Jessica Johnson,Consumer,Canada,East,Office Supplies,Stapler,2378.57,10,0.01,290.25,2023-01-05
+ORD-1089,Paul Williams,Corporate,Australia,South,Furniture,Table,1603.96,5,0.19,345.33,2023-07-22
+ORD-1090,Ashley Cochran,Consumer,Germany,East,Technology,Monitor,1024.02,3,0.25,69.48,2023-06-08
+ORD-1091,Lucas Ruiz,Consumer,United Kingdom,Central,Office Supplies,Paper,2195.88,8,0.21,627.29,2023-01-22
+ORD-1092,Nicole Jones,Home Office,France,South,Office Supplies,Paper,256.91,10,0.13,33.55,2023-04-11
+ORD-1093,Barbara Burke,Corporate,United States,East,Furniture,Chair,1125.59,5,0.23,105.58,2023-05-20
+ORD-1094,James Nelson,Home Office,Australia,South,Office Supplies,Binder,1699.21,10,0.24,496.62,2023-11-14
+ORD-1095,Cindy Dodson,Corporate,United Kingdom,South,Office Supplies,Pen,774.52,2,0.1,173.04,2023-06-15
+ORD-1096,Jeffrey Benson,Corporate,Australia,South,Technology,Laptop,391.18,8,0.08,30.9,2023-06-24
+ORD-1097,Robert Brock,Corporate,France,East,Technology,Phone,214.97,7,0.16,44.21,2023-04-30
+ORD-1098,Jimmy Lawrence,Corporate,Australia,South,Furniture,Table,1004.83,5,0.28,160.3,2023-08-07
+ORD-1099,Walter Carrillo,Home Office,Germany,East,Furniture,Table,486.81,3,0.0,73.99,2023-11-23
+ORD-1100,Melissa Mills,Consumer,United States,South,Furniture,Table,3399.76,8,0.09,769.55,2023-08-27
+ORD-1101,Jeremy Dominguez,Corporate,Germany,South,Furniture,Sofa,684.16,9,0.06,136.73,2023-01-22
+ORD-1102,Leslie Scott,Home Office,Canada,East,Office Supplies,Stapler,2385.68,6,0.15,608.68,2023-01-06
+ORD-1103,Kevin Obrien,Corporate,Australia,Central,Technology,Phone,583.47,3,0.15,77.67,2023-12-05
+ORD-1104,Brenda Martinez,Home Office,Germany,South,Office Supplies,Binder,1079.47,4,0.07,263.27,2023-08-04
+ORD-1105,Veronica Hill,Consumer,United Kingdom,South,Technology,Phone,2629.78,7,0.24,560.16,2023-01-20
+ORD-1106,Ray Morales,Consumer,Germany,East,Furniture,Bookcase,762.73,2,0.13,138.43,2023-02-19
+ORD-1107,Ashley Manning,Corporate,United States,West,Office Supplies,Binder,340.87,2,0.29,45.89,2023-01-26
+ORD-1108,Bonnie Barrett,Home Office,Germany,East,Office Supplies,Stapler,1389.03,6,0.27,238.89,2023-11-11
+ORD-1109,Lance Black,Home Office,United States,East,Furniture,Bookcase,1308.2,4,0.13,97.61,2023-09-17
+ORD-1110,Steve Carter,Home Office,Australia,East,Office Supplies,Binder,2240.77,5,0.01,558.03,2023-07-08
+ORD-1111,Nicole Johnson,Corporate,United Kingdom,Central,Office Supplies,Binder,897.3,4,0.17,222.65,2023-08-17
+ORD-1112,Cindy Rios,Consumer,Canada,East,Technology,Phone,2930.29,10,0.15,573.72,2023-11-11
+ORD-1113,Cindy Howard,Consumer,Germany,Central,Office Supplies,Pen,387.4,1,0.14,47.23,2023-06-14
+ORD-1114,Alexandra Powell,Home Office,Canada,East,Office Supplies,Pen,1111.79,10,0.29,247.46,2023-08-24
+ORD-1115,Andrew Macdonald,Corporate,United Kingdom,West,Office Supplies,Stapler,209.54,2,0.17,40.59,2023-11-03
+ORD-1116,Mary Ruiz,Home Office,United Kingdom,East,Technology,Phone,51.69,5,0.26,12.64,2023-06-13
+ORD-1117,Darlene Sanchez,Consumer,France,South,Office Supplies,Binder,3747.43,10,0.07,365.5,2023-03-13
+ORD-1118,Jack Rose MD,Corporate,Australia,West,Technology,Laptop,140.4,1,0.13,27.36,2023-09-28
+ORD-1119,Carolyn Mills,Home Office,Canada,East,Office Supplies,Pen,645.52,7,0.04,119.33,2023-10-19
+ORD-1120,Michael Garcia,Corporate,France,Central,Furniture,Bookcase,3523.67,8,0.09,942.93,2023-12-15
+ORD-1121,Daniel Hall,Consumer,Germany,East,Furniture,Table,2574.67,7,0.24,364.17,2023-04-11
+ORD-1122,Amber Young,Corporate,United States,Central,Technology,Laptop,1189.41,8,0.22,137.42,2023-05-23
+ORD-1123,Cody Watson,Corporate,Australia,Central,Furniture,Table,130.0,8,0.27,24.75,2023-09-14
+ORD-1124,Michael Henderson,Home Office,Canada,East,Technology,Phone,1575.02,5,0.04,96.61,2023-03-15
+ORD-1125,Laura Huang,Consumer,United Kingdom,South,Furniture,Chair,1707.88,4,0.04,279.09,2023-07-31
+ORD-1126,Robert Ford,Home Office,Australia,South,Technology,Monitor,1737.28,7,0.25,354.25,2023-11-21
+ORD-1127,Sophia Hill,Corporate,United States,Central,Furniture,Sofa,2816.56,8,0.26,210.79,2023-03-29
+ORD-1128,Dean Robertson,Home Office,United Kingdom,Central,Furniture,Sofa,494.45,5,0.04,129.55,2023-04-09
+ORD-1129,Jennifer Esparza,Corporate,United States,West,Technology,Laptop,367.84,1,0.07,29.97,2023-06-08
+ORD-1130,Kimberly Delgado,Home Office,Canada,East,Technology,Monitor,857.07,10,0.26,113.25,2023-04-20
+ORD-1131,Tommy Green,Consumer,France,East,Office Supplies,Binder,626.34,3,0.24,48.53,2023-07-11
+ORD-1132,Tiffany Wilson,Consumer,Canada,East,Office Supplies,Binder,1602.17,10,0.05,101.1,2023-12-05
+ORD-1133,Elaine Ellis,Home Office,Germany,East,Technology,Laptop,1635.11,8,0.11,324.43,2023-07-14
+ORD-1134,Jeanne Newman,Corporate,France,West,Technology,Laptop,1150.36,9,0.19,66.48,2023-03-07
+ORD-1135,Michele Smith,Corporate,Germany,South,Technology,Laptop,2499.2,8,0.13,686.82,2023-12-08
+ORD-1136,Joseph Dean,Corporate,France,West,Furniture,Table,1295.27,5,0.18,295.37,2023-01-10
+ORD-1137,Stephanie Martin,Corporate,France,Central,Office Supplies,Stapler,773.32,2,0.03,165.24,2023-07-12
+ORD-1138,Edward Green,Home Office,Australia,West,Office Supplies,Stapler,638.31,4,0.25,95.54,2023-09-29
+ORD-1139,Mandy Allen,Home Office,United States,Central,Office Supplies,Pen,918.7,5,0.05,257.92,2023-02-04
+ORD-1140,Anthony Murphy,Consumer,United States,East,Furniture,Sofa,667.23,2,0.11,55.07,2023-01-02
+ORD-1141,Mckenzie Williamson,Consumer,France,Central,Technology,Laptop,1026.26,7,0.2,243.81,2023-06-09
+ORD-1142,Julie Martinez,Home Office,United States,Central,Technology,Printer,309.88,6,0.15,27.48,2023-01-06
+ORD-1143,Perry Wells,Corporate,Canada,East,Office Supplies,Pen,636.91,2,0.17,160.38,2023-04-21
+ORD-1144,Nicole Griffith,Home Office,France,East,Technology,Printer,77.74,1,0.21,9.89,2023-11-26
+ORD-1145,Andrea Wells,Corporate,United Kingdom,East,Furniture,Table,3254.58,10,0.02,765.61,2023-04-01
+ORD-1146,Justin Hardy,Consumer,United States,West,Office Supplies,Stapler,1260.52,8,0.11,290.42,2023-11-25
+ORD-1147,Richard Gay,Home Office,France,East,Furniture,Table,1127.62,3,0.01,79.38,2023-03-06
+ORD-1148,Kristen David,Corporate,Australia,South,Office Supplies,Stapler,775.35,7,0.23,60.83,2023-02-10
+ORD-1149,Alan Lee,Corporate,United States,Central,Technology,Phone,3001.69,9,0.01,446.7,2023-11-10
+ORD-1150,Patrick Hunt,Home Office,United States,East,Furniture,Bookcase,1188.88,4,0.23,145.47,2023-09-28
+ORD-1151,Sandra Wade,Consumer,United States,South,Technology,Phone,184.72,3,0.16,19.86,2023-02-01
+ORD-1152,James Hutchinson,Home Office,Australia,Central,Furniture,Sofa,192.42,1,0.14,13.37,2023-09-30
+ORD-1153,Elizabeth Cruz,Corporate,France,South,Technology,Phone,935.46,7,0.12,272.73,2023-07-08
+ORD-1154,Samantha Sparks,Consumer,France,South,Technology,Printer,434.54,2,0.03,69.06,2023-11-28
+ORD-1155,Alyssa Lewis,Corporate,France,East,Office Supplies,Pen,547.79,6,0.23,37.85,2023-06-01
+ORD-1156,Christina Ortiz,Home Office,United States,West,Office Supplies,Pen,362.22,3,0.04,35.97,2023-11-13
+ORD-1157,Jeffrey Peterson,Home Office,Canada,East,Furniture,Sofa,2338.83,8,0.23,379.42,2023-10-25
+ORD-1158,Steven Brown,Home Office,Australia,Central,Technology,Printer,581.74,3,0.14,120.91,2023-10-23
+ORD-1159,Colleen Graham,Corporate,France,East,Office Supplies,Paper,1169.44,5,0.01,166.28,2023-04-19
+ORD-1160,Michael Wallace,Corporate,United States,East,Technology,Phone,1671.96,8,0.29,392.46,2023-03-28
+ORD-1161,Robert Kirk,Consumer,Germany,West,Office Supplies,Stapler,740.17,9,0.02,56.16,2023-10-06
+ORD-1162,Henry Scott,Corporate,Australia,East,Technology,Monitor,114.31,1,0.13,18.27,2023-08-07
+ORD-1163,Dr. Curtis Gonzalez,Home Office,France,West,Office Supplies,Pen,769.35,5,0.23,169.04,2023-01-03
+ORD-1164,John Wheeler,Consumer,Australia,Central,Furniture,Bookcase,498.78,2,0.12,56.36,2023-12-28
+ORD-1165,Monica Perez,Home Office,France,West,Office Supplies,Paper,2413.22,10,0.28,307.83,2023-12-27
+ORD-1166,Jasmine Perez,Home Office,Australia,South,Furniture,Chair,1149.67,5,0.19,151.89,2023-10-19
+ORD-1167,Mrs. Jessica Miller,Consumer,Australia,East,Technology,Phone,1500.27,9,0.11,142.62,2023-02-04
+ORD-1168,Robert White,Consumer,United Kingdom,South,Furniture,Table,234.56,3,0.09,57.94,2023-09-30
+ORD-1169,Ryan Ramirez,Home Office,France,East,Technology,Printer,660.47,10,0.11,59.81,2023-05-27
+ORD-1170,Robert Williams,Home Office,France,West,Technology,Phone,169.06,1,0.2,18.49,2023-02-15
+ORD-1171,Diana Reid,Corporate,France,Central,Technology,Phone,988.88,4,0.09,249.35,2023-12-24
+ORD-1172,Jennifer Murphy,Corporate,Canada,Central,Technology,Phone,2384.04,8,0.23,418.94,2023-12-30
+ORD-1173,Danny Reed,Corporate,Canada,West,Technology,Monitor,152.95,5,0.14,21.84,2023-09-14
+ORD-1174,Christine Wade,Consumer,Australia,East,Office Supplies,Paper,314.64,3,0.27,27.32,2023-08-23
+ORD-1175,James Luna,Corporate,United States,West,Office Supplies,Pen,187.7,1,0.12,26.93,2023-01-25
+ORD-1176,Cody Hicks,Corporate,United States,Central,Furniture,Chair,2097.45,6,0.25,445.69,2023-03-28
+ORD-1177,Catherine Fischer,Consumer,Canada,East,Office Supplies,Stapler,985.12,3,0.14,200.8,2023-06-17
+ORD-1178,Susan Griffith,Consumer,United States,Central,Furniture,Table,3473.84,9,0.18,541.27,2023-07-08
+ORD-1179,Blake Henderson,Corporate,Canada,Central,Furniture,Chair,655.76,4,0.24,107.73,2023-12-11
+ORD-1180,Jacob Mueller,Consumer,Germany,East,Technology,Monitor,458.16,3,0.0,63.32,2023-10-07
+ORD-1181,Barbara Gonzales,Home Office,Germany,West,Technology,Laptop,4300.46,9,0.02,780.6,2023-11-21
+ORD-1182,Dr. Christina Coleman,Home Office,France,East,Office Supplies,Stapler,228.25,1,0.29,25.89,2023-09-03
+ORD-1183,Theresa Ward,Consumer,United Kingdom,East,Office Supplies,Binder,605.34,2,0.22,80.59,2023-12-27
+ORD-1184,Rhonda Campbell,Consumer,United Kingdom,Central,Technology,Monitor,3375.33,8,0.14,322.58,2023-03-28
+ORD-1185,Brian Webb,Consumer,United States,South,Furniture,Bookcase,118.33,4,0.06,7.16,2023-09-16
+ORD-1186,Marc Mathis,Corporate,France,South,Technology,Phone,113.16,5,0.19,13.75,2023-07-25
+ORD-1187,Eric Phillips,Consumer,Australia,Central,Office Supplies,Paper,1183.3,6,0.12,189.25,2023-08-21
+ORD-1188,Raymond Pitts DDS,Corporate,United Kingdom,West,Office Supplies,Stapler,2333.07,6,0.16,583.94,2023-01-19
+ORD-1189,Joshua Shields,Home Office,Germany,East,Office Supplies,Binder,1343.98,9,0.03,177.38,2023-11-24
+ORD-1190,Meagan Cummings,Corporate,United Kingdom,South,Technology,Phone,929.11,3,0.11,56.29,2023-06-25
+ORD-1191,Christina Hall,Corporate,France,South,Office Supplies,Paper,596.43,2,0.12,106.33,2023-11-21
+ORD-1192,Heather Lawson,Home Office,Australia,West,Furniture,Table,2977.66,10,0.13,242.85,2023-02-05
+ORD-1193,Roger Fritz,Consumer,Australia,Central,Office Supplies,Stapler,245.76,10,0.05,39.93,2023-10-20
+ORD-1194,Patricia Cain,Corporate,United Kingdom,South,Furniture,Table,1554.54,9,0.09,186.04,2023-06-02
+ORD-1195,Jessica Reed,Consumer,United States,West,Office Supplies,Stapler,469.16,9,0.23,106.03,2023-09-20
+ORD-1196,Linda Johnson,Consumer,France,Central,Technology,Phone,207.47,4,0.26,33.82,2023-08-07
+ORD-1197,Mia Solis,Home Office,Germany,East,Technology,Printer,1802.66,6,0.16,220.99,2023-10-28
+ORD-1198,Catherine Knight,Corporate,Canada,West,Office Supplies,Binder,748.92,2,0.24,81.77,2023-01-05
+ORD-1199,Lori Maynard,Corporate,United States,Central,Technology,Printer,2681.17,8,0.17,544.24,2023-07-16
+ORD-1200,Jonathan King,Consumer,United States,Central,Office Supplies,Stapler,1673.42,9,0.12,324.18,2023-02-02
+ORD-1201,Anthony Craig,Consumer,United Kingdom,East,Office Supplies,Stapler,1190.87,9,0.26,291.84,2023-07-23
+ORD-1202,Eric Cook,Home Office,France,West,Furniture,Sofa,4024.12,9,0.02,326.12,2023-03-07
+ORD-1203,Robert Watkins,Consumer,United Kingdom,West,Furniture,Bookcase,517.1,4,0.28,141.55,2023-01-12
+ORD-1204,Tanya Dudley,Consumer,United Kingdom,West,Technology,Printer,778.0,3,0.18,57.07,2023-07-26
+ORD-1205,Johnathan Pineda DDS,Home Office,Canada,West,Furniture,Bookcase,223.41,10,0.26,15.71,2023-12-12
+ORD-1206,Jason Cooper,Home Office,France,Central,Technology,Monitor,1734.45,10,0.19,302.68,2023-08-23
+ORD-1207,Kelly Diaz,Home Office,France,Central,Technology,Printer,790.34,8,0.24,119.75,2023-09-11
+ORD-1208,Mario Elliott,Corporate,United States,East,Furniture,Sofa,1627.1,7,0.06,328.13,2023-12-14
+ORD-1209,Jacob Munoz,Corporate,Australia,Central,Technology,Printer,461.52,7,0.11,87.88,2023-11-06
+ORD-1210,Sonia Ortiz,Corporate,Canada,South,Furniture,Bookcase,1020.28,8,0.03,125.04,2023-10-23
+ORD-1211,Curtis Jackson,Corporate,France,South,Furniture,Table,2188.09,6,0.22,213.25,2023-04-01
+ORD-1212,Haley Morgan,Consumer,Germany,South,Office Supplies,Pen,123.03,8,0.28,21.7,2023-11-22
+ORD-1213,Mrs. Amanda Reyes,Consumer,Canada,Central,Furniture,Chair,934.25,5,0.26,199.52,2023-09-24
+ORD-1214,James Rogers,Corporate,United Kingdom,East,Furniture,Sofa,1035.22,3,0.22,249.45,2023-10-01
+ORD-1215,Jay Brooks,Corporate,United States,South,Furniture,Table,1652.75,6,0.02,290.99,2023-04-13
+ORD-1216,Daniel Smith MD,Home Office,United Kingdom,East,Furniture,Chair,945.06,7,0.3,179.05,2023-04-07
+ORD-1217,Emily Mcdaniel,Corporate,Canada,West,Technology,Phone,264.81,9,0.01,60.48,2023-12-04
+ORD-1218,Angela Haynes,Corporate,France,South,Furniture,Table,2518.4,6,0.1,373.32,2023-04-12
+ORD-1219,Duane Hill,Home Office,Australia,Central,Technology,Printer,3143.9,9,0.16,714.25,2023-05-02
+ORD-1220,Brian Richardson,Corporate,Germany,East,Office Supplies,Pen,803.85,2,0.18,200.31,2023-03-07
+ORD-1221,Tom Matthews,Home Office,Australia,East,Technology,Phone,1862.86,5,0.23,454.61,2023-11-28
+ORD-1222,Yvette Coffey,Home Office,Canada,East,Technology,Phone,624.48,3,0.22,152.16,2023-12-12
+ORD-1223,Dave Simpson,Corporate,Canada,West,Furniture,Chair,70.18,4,0.09,6.17,2023-09-29
+ORD-1224,Carolyn Lee,Home Office,Canada,South,Technology,Phone,298.9,1,0.16,56.86,2023-02-16
+ORD-1225,Heather Frank,Home Office,Germany,South,Office Supplies,Binder,3289.97,8,0.1,455.9,2023-09-09
+ORD-1226,Raymond Gutierrez,Home Office,Australia,Central,Technology,Phone,1763.09,4,0.08,219.72,2023-03-08
+ORD-1227,Carolyn Barnes,Corporate,United Kingdom,West,Technology,Phone,1220.6,6,0.17,346.19,2023-02-09
+ORD-1228,Lisa Fowler,Home Office,United Kingdom,Central,Furniture,Sofa,2042.67,7,0.29,513.02,2023-08-16
+ORD-1229,Jonathan Thomas,Corporate,United States,Central,Technology,Laptop,2221.25,6,0.2,526.07,2023-01-14
+ORD-1230,Heather Pham,Consumer,Canada,Central,Technology,Printer,148.64,3,0.22,16.32,2023-07-30
+ORD-1231,Alice Curry,Consumer,Australia,West,Technology,Monitor,53.19,1,0.1,8.94,2023-12-18
+ORD-1232,Sarah Valdez,Home Office,Canada,East,Technology,Monitor,1708.99,7,0.26,288.69,2023-10-29
+ORD-1233,Leslie Hodges,Home Office,Canada,Central,Office Supplies,Pen,441.24,1,0.03,85.39,2023-05-25
+ORD-1234,Tom Paul,Home Office,Australia,East,Furniture,Sofa,1388.83,3,0.01,359.78,2023-07-28
+ORD-1235,Lisa Brown,Corporate,Canada,Central,Furniture,Chair,1398.25,5,0.03,413.53,2023-08-03
+ORD-1236,Nicholas White,Corporate,Germany,South,Furniture,Sofa,506.73,5,0.03,45.92,2023-11-09
+ORD-1237,Michael Johnson,Corporate,Australia,Central,Technology,Monitor,281.91,1,0.24,54.11,2023-08-19
+ORD-1238,Amanda Brown,Consumer,Canada,South,Office Supplies,Pen,400.44,2,0.03,118.3,2023-10-09
+ORD-1239,Stephanie Diaz,Corporate,United Kingdom,West,Furniture,Bookcase,675.96,7,0.23,195.02,2023-11-05
+ORD-1240,David Moore,Corporate,France,East,Office Supplies,Pen,155.29,4,0.04,19.68,2023-09-02
+ORD-1241,Andrew Smith,Corporate,Australia,Central,Technology,Laptop,883.96,5,0.07,255.77,2023-06-23
+ORD-1242,Monica Mcdonald,Corporate,Canada,South,Technology,Printer,1808.68,7,0.27,432.89,2023-11-26
+ORD-1243,Lawrence Jones,Home Office,Canada,West,Technology,Laptop,1627.55,9,0.21,113.16,2023-06-27
+ORD-1244,Lindsey Payne,Home Office,United States,East,Technology,Monitor,2593.12,10,0.05,683.6,2023-01-17
+ORD-1245,Isaac Wolfe,Corporate,United States,West,Technology,Phone,783.8,2,0.13,50.09,2023-05-02
+ORD-1246,Kathy Melton,Consumer,France,South,Office Supplies,Paper,1618.14,9,0.24,373.5,2023-11-04
+ORD-1247,Lorraine Holder,Corporate,United Kingdom,East,Technology,Monitor,398.29,10,0.13,89.65,2023-02-12
+ORD-1248,Daniel Taylor,Home Office,United States,East,Office Supplies,Paper,809.81,5,0.23,195.53,2023-09-24
+ORD-1249,Eugene Miller,Home Office,Australia,South,Office Supplies,Stapler,2546.88,8,0.27,366.53,2023-10-30
+ORD-1250,Cheryl Smith,Home Office,Australia,West,Technology,Printer,163.72,2,0.16,29.83,2023-08-08
+ORD-1251,Jeremy Shannon,Home Office,Canada,East,Furniture,Bookcase,2284.87,8,0.16,418.09,2023-03-22
+ORD-1252,Adam Gonzalez,Consumer,Canada,South,Office Supplies,Binder,378.73,5,0.26,91.42,2023-09-04
+ORD-1253,Jessica Martin,Consumer,Australia,South,Technology,Laptop,430.6,4,0.03,25.14,2023-07-20
+ORD-1254,Scott Meza,Home Office,Australia,East,Furniture,Chair,1323.53,7,0.16,315.79,2023-07-09
+ORD-1255,Paul Davis,Consumer,Canada,Central,Furniture,Bookcase,2423.84,10,0.2,315.5,2023-05-23
+ORD-1256,Chad Pitts,Corporate,Canada,West,Office Supplies,Pen,143.53,5,0.28,38.74,2023-10-23
+ORD-1257,Jesse Rivera,Consumer,Australia,South,Technology,Phone,350.22,1,0.28,76.29,2023-04-25
+ORD-1258,Adam Hess,Home Office,United Kingdom,South,Office Supplies,Binder,748.71,5,0.23,126.07,2023-05-16
+ORD-1259,Michael Spears,Consumer,United Kingdom,West,Office Supplies,Paper,1680.7,9,0.12,306.72,2023-04-27
+ORD-1260,Ashley Jones,Corporate,Canada,Central,Furniture,Bookcase,692.84,2,0.25,50.66,2023-11-04
+ORD-1261,Elizabeth Ray,Home Office,Canada,East,Office Supplies,Stapler,2260.18,10,0.26,219.33,2023-12-18
+ORD-1262,Robin Potter,Home Office,Australia,West,Office Supplies,Binder,694.49,6,0.27,71.5,2023-11-24
+ORD-1263,Erin Wilson,Consumer,Australia,East,Technology,Phone,1108.72,4,0.21,165.37,2023-04-23
+ORD-1264,Sonia Taylor,Consumer,France,Central,Office Supplies,Stapler,1933.01,8,0.11,223.05,2023-01-10
+ORD-1265,Corey Smith,Home Office,Germany,South,Furniture,Sofa,2445.83,6,0.11,375.39,2023-04-27
+ORD-1266,Larry Miller,Home Office,Canada,West,Furniture,Bookcase,3496.18,9,0.17,539.79,2023-03-19
+ORD-1267,Leonard Howard MD,Consumer,Canada,Central,Furniture,Sofa,3555.97,10,0.15,759.74,2023-01-30
+ORD-1268,Tracey Acosta,Home Office,United Kingdom,Central,Office Supplies,Stapler,561.97,8,0.24,51.88,2023-12-04
+ORD-1269,Thomas Chambers,Home Office,France,South,Furniture,Chair,179.35,9,0.25,51.35,2023-01-17
+ORD-1270,Sandra Brown,Home Office,United States,East,Office Supplies,Binder,164.54,4,0.05,17.22,2023-11-18
+ORD-1271,Sharon Baker,Corporate,United Kingdom,East,Technology,Phone,119.01,8,0.16,18.19,2023-01-03
+ORD-1272,Shannon Andrade,Consumer,France,Central,Technology,Printer,202.31,1,0.21,31.89,2023-09-14
+ORD-1273,Donna Williams,Consumer,United States,East,Technology,Monitor,349.61,4,0.16,88.73,2023-07-25
+ORD-1274,Cynthia Villarreal,Corporate,Germany,East,Office Supplies,Stapler,1606.36,8,0.3,171.02,2023-04-18
+ORD-1275,Daniel Turner,Home Office,United States,East,Furniture,Sofa,1172.76,7,0.14,245.33,2023-03-01
+ORD-1276,David Doyle,Home Office,Canada,East,Office Supplies,Stapler,1275.48,6,0.26,94.18,2023-12-22
+ORD-1277,Amanda Miles,Home Office,United States,West,Furniture,Sofa,160.82,5,0.02,45.25,2023-04-12
+ORD-1278,Amy Rodriguez,Home Office,France,East,Furniture,Bookcase,394.52,1,0.18,93.92,2023-07-31
+ORD-1279,Ashley Rowe,Home Office,Germany,East,Office Supplies,Binder,958.72,10,0.25,141.21,2023-02-03
+ORD-1280,Diana Hawkins,Home Office,United Kingdom,South,Technology,Monitor,362.65,2,0.29,23.0,2023-06-27
+ORD-1281,Michelle Pierce,Corporate,Canada,East,Office Supplies,Stapler,135.35,6,0.08,40.35,2023-10-30
+ORD-1282,Richard Campos,Corporate,Canada,Central,Technology,Phone,579.8,7,0.18,84.08,2023-04-05
+ORD-1283,Holly Copeland,Home Office,United Kingdom,West,Technology,Laptop,251.53,2,0.11,61.87,2023-05-08
+ORD-1284,Corey Carroll Jr.,Consumer,Australia,South,Office Supplies,Pen,78.98,2,0.28,12.73,2023-02-09
+ORD-1285,Nicholas Williams,Corporate,United States,West,Furniture,Table,1335.89,7,0.17,203.07,2023-07-19
+ORD-1286,Jordan Harding,Consumer,United States,Central,Technology,Laptop,2727.36,10,0.1,399.04,2023-07-01
+ORD-1287,Arthur Acosta,Corporate,Germany,South,Furniture,Table,2096.19,10,0.21,193.64,2023-04-18
+ORD-1288,Ricky Glass,Corporate,United Kingdom,Central,Office Supplies,Binder,169.15,2,0.08,21.13,2023-09-28
+ORD-1289,Gregory Kelley,Consumer,United Kingdom,Central,Furniture,Sofa,2684.66,10,0.14,225.17,2023-07-06
+ORD-1290,Jonathan Smith,Consumer,Germany,Central,Technology,Phone,1178.21,6,0.13,301.48,2023-09-06
+ORD-1291,Karen Oneal,Home Office,France,West,Office Supplies,Pen,4457.2,10,0.06,572.95,2023-06-19
+ORD-1292,Danielle West,Corporate,United Kingdom,Central,Technology,Phone,3538.53,10,0.1,424.89,2023-06-21
+ORD-1293,Jared Brennan,Corporate,United Kingdom,East,Technology,Monitor,4737.27,10,0.05,1145.97,2023-03-16
+ORD-1294,Robert Hodge,Consumer,Australia,South,Technology,Monitor,2405.22,8,0.25,161.85,2023-09-08
+ORD-1295,Zachary Ruiz,Corporate,Australia,South,Furniture,Bookcase,508.48,4,0.05,79.21,2023-09-12
+ORD-1296,David Lopez,Corporate,United States,South,Technology,Phone,1754.31,10,0.15,491.38,2023-05-17
+ORD-1297,Brenda West,Home Office,Germany,East,Office Supplies,Paper,618.86,2,0.2,85.87,2023-10-27
+ORD-1298,Sarah Wilson,Home Office,France,East,Technology,Phone,2522.3,6,0.13,132.77,2023-03-08
+ORD-1299,Sarah Bennett,Corporate,Canada,West,Office Supplies,Pen,1326.64,7,0.2,295.32,2023-01-08
+ORD-1300,Scott Day,Consumer,United Kingdom,East,Office Supplies,Paper,759.1,5,0.29,59.98,2023-05-04
+ORD-1301,Shannon Washington,Home Office,Canada,Central,Office Supplies,Pen,2649.63,8,0.16,363.2,2023-06-24
+ORD-1302,Deborah Smith,Consumer,Germany,South,Office Supplies,Paper,125.97,5,0.21,7.01,2023-02-03
+ORD-1303,Jennifer Prince,Corporate,Australia,East,Technology,Monitor,872.63,4,0.17,115.84,2023-03-01
+ORD-1304,Spencer Hudson,Corporate,Germany,West,Office Supplies,Binder,845.2,3,0.13,48.43,2023-07-01
+ORD-1305,Megan Thornton,Home Office,Canada,South,Technology,Phone,80.14,7,0.06,9.58,2023-04-15
+ORD-1306,Nichole Williams,Home Office,United States,East,Technology,Monitor,875.81,6,0.14,101.23,2023-03-03
+ORD-1307,Brian Beltran,Corporate,France,Central,Technology,Phone,1962.79,10,0.03,270.86,2023-05-12
+ORD-1308,Susan Beck,Corporate,France,West,Technology,Printer,2393.44,10,0.2,307.07,2023-11-23
+ORD-1309,Kristen Long,Consumer,United Kingdom,East,Furniture,Bookcase,679.38,3,0.13,57.39,2023-09-04
+ORD-1310,Steven Ramos,Corporate,Germany,West,Office Supplies,Binder,751.51,9,0.09,72.73,2023-08-23
+ORD-1311,Matthew Morris,Corporate,France,East,Office Supplies,Paper,467.55,8,0.24,136.04,2023-09-13
+ORD-1312,Nancy Morgan,Home Office,Australia,South,Office Supplies,Stapler,2180.04,7,0.13,200.16,2023-07-05
+ORD-1313,Natasha Martinez,Home Office,United States,West,Office Supplies,Paper,546.77,5,0.09,134.06,2023-05-13
+ORD-1314,Christopher Bowman,Home Office,Australia,South,Technology,Laptop,507.89,10,0.23,129.93,2023-02-02
+ORD-1315,Kathleen Wilson,Corporate,France,East,Technology,Phone,916.81,9,0.13,214.53,2023-01-17
+ORD-1316,John Santos,Home Office,Canada,Central,Furniture,Sofa,678.0,5,0.25,108.32,2023-12-08
+ORD-1317,Gabriela Fuller,Consumer,Canada,West,Technology,Printer,3040.57,10,0.05,257.87,2023-10-24
+ORD-1318,Kimberly Rollins,Consumer,Canada,East,Technology,Printer,1116.84,9,0.16,146.21,2023-01-19
+ORD-1319,Nicole Neal,Home Office,United Kingdom,Central,Technology,Printer,3548.81,9,0.2,261.92,2023-12-08
+ORD-1320,Mariah Baker,Corporate,United States,Central,Technology,Monitor,313.65,3,0.21,80.65,2023-06-11
+ORD-1321,Peter Reynolds MD,Home Office,Germany,South,Furniture,Bookcase,1329.67,7,0.02,330.62,2023-04-14
+ORD-1322,Charles Trujillo,Consumer,Germany,Central,Technology,Printer,3424.46,8,0.1,173.34,2023-06-10
+ORD-1323,Hannah Frederick,Home Office,United States,South,Technology,Printer,703.79,2,0.12,205.53,2023-07-24
+ORD-1324,Whitney Parsons,Consumer,Germany,Central,Office Supplies,Pen,1602.32,6,0.04,421.58,2023-08-02
+ORD-1325,Jacob Porter,Corporate,Australia,East,Furniture,Chair,103.56,8,0.28,9.27,2023-05-14
+ORD-1326,Dustin Bruce,Corporate,United States,South,Furniture,Table,316.44,5,0.28,37.5,2023-05-02
+ORD-1327,Alexis Duncan,Home Office,United Kingdom,Central,Furniture,Bookcase,85.97,3,0.19,19.9,2023-11-29
+ORD-1328,Joseph Ford,Consumer,Germany,East,Technology,Laptop,112.29,1,0.02,22.28,2023-08-29
+ORD-1329,Alexander Warren,Home Office,Australia,South,Furniture,Chair,1723.6,6,0.3,268.16,2023-05-11
+ORD-1330,Thomas Escobar,Consumer,Germany,East,Furniture,Sofa,714.06,2,0.03,91.64,2023-08-06
+ORD-1331,Katie Brown,Corporate,Canada,South,Furniture,Table,539.9,2,0.0,114.73,2023-03-28
+ORD-1332,Wendy Bird,Corporate,United Kingdom,West,Technology,Monitor,1899.35,7,0.13,198.12,2023-06-04
+ORD-1333,Ryan Middleton,Consumer,Canada,East,Technology,Phone,2631.67,6,0.09,223.58,2023-06-14
+ORD-1334,Adam Reese,Corporate,Australia,East,Furniture,Bookcase,340.38,1,0.2,42.69,2023-10-03
+ORD-1335,Ronald Moon,Home Office,France,West,Technology,Phone,1241.16,5,0.24,308.36,2023-10-17
+ORD-1336,William Brooks,Consumer,Germany,South,Furniture,Table,2529.65,8,0.02,688.52,2023-04-01
+ORD-1337,Lauren Glover,Consumer,United Kingdom,Central,Furniture,Sofa,1816.25,10,0.16,169.26,2023-11-11
+ORD-1338,Dana Boyd,Corporate,United States,East,Technology,Laptop,137.09,1,0.01,8.93,2023-07-28
+ORD-1339,Jessica Khan,Corporate,France,Central,Technology,Phone,2427.69,7,0.02,447.04,2023-08-27
+ORD-1340,Glenn Martinez,Home Office,Canada,Central,Furniture,Bookcase,489.82,2,0.06,123.44,2023-09-21
+ORD-1341,Beth Santiago,Home Office,United Kingdom,South,Technology,Laptop,1374.16,5,0.22,359.5,2023-01-12
+ORD-1342,Robert Hall,Consumer,Canada,East,Office Supplies,Paper,2430.64,8,0.02,526.28,2023-11-25
+ORD-1343,Gabriel Nelson,Home Office,Australia,West,Furniture,Chair,1008.13,3,0.05,290.6,2023-09-12
+ORD-1344,Sharon Jordan,Home Office,France,Central,Furniture,Bookcase,837.81,3,0.26,195.41,2023-05-31
+ORD-1345,Thomas Sanchez,Consumer,United States,Central,Office Supplies,Pen,293.64,9,0.21,57.01,2023-07-03
+ORD-1346,William Ross,Consumer,Germany,South,Technology,Printer,211.49,1,0.17,30.02,2023-07-11
+ORD-1347,Ryan Cabrera,Corporate,United States,East,Furniture,Chair,430.76,1,0.0,26.49,2023-06-20
+ORD-1348,Dana Phillips,Corporate,Germany,West,Furniture,Chair,2869.1,9,0.21,613.77,2023-10-22
+ORD-1349,Michael Ayala,Consumer,United Kingdom,West,Office Supplies,Pen,1721.17,5,0.17,137.44,2023-12-18
+ORD-1350,Michael Carson,Home Office,United States,West,Furniture,Chair,263.5,7,0.14,31.77,2023-10-01
+ORD-1351,Brandon Rogers,Corporate,United Kingdom,East,Technology,Phone,173.6,1,0.09,42.73,2023-01-23
+ORD-1352,Stephanie Morris,Home Office,France,West,Office Supplies,Pen,3403.47,10,0.3,830.35,2023-03-23
+ORD-1353,Jordan George,Home Office,France,West,Furniture,Chair,127.71,7,0.16,26.69,2023-06-15
+ORD-1354,Donna Alvarez,Home Office,United States,Central,Furniture,Sofa,255.95,5,0.16,28.04,2023-06-10
+ORD-1355,Lisa Smith,Corporate,United States,West,Technology,Printer,58.61,2,0.07,15.32,2023-01-12
+ORD-1356,David Brown,Corporate,Australia,Central,Office Supplies,Paper,545.57,10,0.04,139.12,2023-02-04
+ORD-1357,Elizabeth Cabrera,Consumer,France,East,Office Supplies,Binder,452.64,4,0.26,127.42,2023-05-03
+ORD-1358,Steven Jones,Corporate,Australia,Central,Office Supplies,Stapler,448.09,5,0.28,37.65,2023-07-06
+ORD-1359,Mark Sullivan,Home Office,United States,West,Furniture,Table,1678.12,8,0.12,308.74,2023-09-30
+ORD-1360,Tammy Howell,Consumer,Germany,Central,Office Supplies,Pen,82.55,2,0.24,10.41,2023-10-31
+ORD-1361,Jessica Lee,Home Office,Australia,East,Furniture,Bookcase,152.59,3,0.07,21.2,2023-06-14
+ORD-1362,Kelly Ramos,Home Office,United States,Central,Office Supplies,Binder,352.63,1,0.26,66.64,2023-09-06
+ORD-1363,Kristin Harris,Home Office,Canada,East,Office Supplies,Paper,204.36,3,0.02,50.12,2023-04-21
+ORD-1364,Leslie Jacobs,Consumer,Canada,West,Office Supplies,Pen,543.43,2,0.08,137.59,2023-12-08
+ORD-1365,Brenda Camacho,Consumer,United States,West,Technology,Phone,123.91,3,0.25,31.25,2023-03-28
+ORD-1366,Mark Ford,Consumer,United States,South,Furniture,Table,1733.55,10,0.22,301.69,2023-03-12
+ORD-1367,Barbara Wolfe,Corporate,Australia,South,Furniture,Bookcase,1674.66,4,0.08,270.46,2023-01-15
+ORD-1368,Kelly Smith,Consumer,United States,West,Technology,Printer,1406.88,8,0.17,91.79,2023-02-06
+ORD-1369,Chase Jones,Corporate,Germany,West,Office Supplies,Binder,832.1,9,0.3,154.7,2023-03-10
+ORD-1370,Katherine Johnston,Consumer,Germany,Central,Office Supplies,Stapler,2331.77,6,0.15,342.99,2023-08-22
+ORD-1371,John Baker,Consumer,United States,Central,Technology,Monitor,345.67,1,0.23,22.35,2023-05-05
+ORD-1372,Donna Taylor,Corporate,France,Central,Technology,Monitor,141.77,3,0.2,16.53,2023-11-15
+ORD-1373,Tiffany Wagner,Home Office,United States,West,Technology,Phone,1966.65,6,0.3,183.74,2023-01-29
+ORD-1374,Dennis Deleon,Consumer,France,Central,Technology,Printer,188.18,10,0.21,53.99,2023-02-05
+ORD-1375,Adam Rodgers,Home Office,Canada,West,Office Supplies,Pen,728.4,3,0.03,78.78,2023-12-17
+ORD-1376,David Graham,Consumer,United States,South,Furniture,Bookcase,1043.71,10,0.04,239.25,2023-12-26
+ORD-1377,Olivia Carr,Corporate,United States,East,Furniture,Table,628.67,2,0.26,182.4,2023-09-17
+ORD-1378,Ryan Stout,Corporate,Australia,South,Technology,Laptop,909.27,6,0.04,81.27,2023-09-14
+ORD-1379,Evelyn Smith,Corporate,Australia,South,Technology,Printer,887.73,3,0.17,241.82,2023-04-24
+ORD-1380,Dean Garcia,Home Office,United Kingdom,West,Technology,Monitor,886.68,7,0.21,72.56,2023-10-04
+ORD-1381,Hunter Boyd,Home Office,United States,South,Technology,Laptop,659.17,3,0.28,192.4,2023-02-11
+ORD-1382,Mitchell Williams,Consumer,Australia,East,Office Supplies,Binder,2093.73,6,0.07,618.9,2023-08-27
+ORD-1383,Lawrence Jones,Consumer,Australia,East,Technology,Printer,117.16,8,0.06,26.16,2023-12-23
+ORD-1384,Matthew Yang,Corporate,United Kingdom,East,Technology,Laptop,155.31,1,0.22,45.39,2023-07-10
+ORD-1385,Shawn Taylor,Corporate,Germany,South,Office Supplies,Stapler,632.5,2,0.24,123.03,2023-09-01
+ORD-1386,Sandra Hayden,Home Office,Canada,West,Office Supplies,Paper,139.06,1,0.1,40.04,2023-12-29
+ORD-1387,William Middleton,Consumer,United Kingdom,West,Office Supplies,Binder,405.95,2,0.27,29.75,2023-07-15
+ORD-1388,Amanda Watson,Home Office,France,South,Technology,Laptop,3137.47,7,0.05,854.77,2023-08-18
+ORD-1389,Stephen Wright,Consumer,United States,East,Office Supplies,Binder,699.03,4,0.17,196.7,2023-01-07
+ORD-1390,Lisa Wilson,Home Office,United Kingdom,Central,Office Supplies,Binder,56.97,2,0.17,14.81,2023-09-16
+ORD-1391,Kelly Proctor,Consumer,United States,Central,Furniture,Sofa,246.93,2,0.2,49.4,2023-10-09
+ORD-1392,Gabriel Holmes,Consumer,United States,East,Furniture,Table,2101.67,5,0.14,165.77,2023-11-24
+ORD-1393,Jeffrey Davis,Corporate,Germany,South,Technology,Printer,571.14,2,0.12,81.53,2023-10-04
+ORD-1394,Jennifer Miles,Corporate,United Kingdom,West,Office Supplies,Paper,1037.16,5,0.08,268.9,2023-06-27
+ORD-1395,Susan Hayes,Home Office,United States,West,Technology,Laptop,512.83,2,0.24,78.72,2023-10-02
+ORD-1396,Scott Patterson,Home Office,Canada,East,Office Supplies,Stapler,2246.36,9,0.28,433.95,2023-12-19
+ORD-1397,Kenneth Roberts,Consumer,Germany,Central,Furniture,Sofa,186.9,1,0.27,46.75,2023-10-06
+ORD-1398,Timothy Evans,Home Office,France,West,Furniture,Sofa,1353.86,3,0.05,139.41,2023-11-26
+ORD-1399,Lorraine Matthews,Consumer,Canada,East,Office Supplies,Paper,571.93,7,0.25,49.74,2023-11-10
+ORD-1400,Chad Simmons,Home Office,United Kingdom,Central,Technology,Laptop,352.3,2,0.12,46.34,2023-02-02
+ORD-1401,Kelly Campbell,Corporate,France,South,Furniture,Sofa,409.11,2,0.04,80.59,2023-12-16
+ORD-1402,Daniel Stephens,Consumer,United States,East,Office Supplies,Pen,780.81,7,0.2,150.7,2023-04-02
+ORD-1403,Stacey Hogan,Corporate,United States,West,Office Supplies,Stapler,751.06,3,0.2,112.98,2023-09-04
+ORD-1404,Caroline Terry,Corporate,United Kingdom,West,Furniture,Sofa,2225.27,5,0.01,565.99,2023-03-30
+ORD-1405,Devon Smith,Corporate,United Kingdom,Central,Office Supplies,Paper,215.41,4,0.29,34.63,2023-09-29
+ORD-1406,Larry Miller,Corporate,United Kingdom,South,Technology,Laptop,661.2,4,0.27,100.37,2023-09-17
+ORD-1407,Steven Gross,Corporate,France,Central,Furniture,Table,276.16,2,0.15,23.17,2023-11-06
+ORD-1408,Regina Brown,Home Office,France,East,Furniture,Table,1562.85,4,0.07,256.48,2023-06-09
+ORD-1409,David Santiago,Corporate,Australia,West,Office Supplies,Pen,1668.66,8,0.19,135.11,2023-08-01
+ORD-1410,Jennifer Moore,Consumer,Canada,Central,Office Supplies,Stapler,1240.08,3,0.14,232.93,2023-09-23
+ORD-1411,Cody Christensen,Corporate,Canada,Central,Technology,Laptop,116.08,5,0.01,30.58,2023-12-03
+ORD-1412,Mary Walker,Consumer,Canada,West,Technology,Monitor,1399.44,5,0.15,372.47,2023-08-21
+ORD-1413,Gina Little,Home Office,United States,South,Furniture,Table,3742.51,10,0.07,756.31,2023-10-03
+ORD-1414,Travis Phillips,Corporate,Australia,Central,Office Supplies,Stapler,1310.8,6,0.07,164.55,2023-08-18
+ORD-1415,Nicole Gonzalez,Home Office,France,South,Technology,Laptop,208.51,1,0.2,54.38,2023-08-28
+ORD-1416,Jonathan Hamilton,Corporate,France,Central,Office Supplies,Paper,231.17,8,0.3,48.58,2023-08-20
+ORD-1417,David Lopez,Corporate,United Kingdom,Central,Furniture,Table,2529.98,9,0.27,635.93,2023-04-16
+ORD-1418,Joshua Sullivan,Home Office,Germany,Central,Technology,Monitor,231.8,1,0.3,26.62,2023-06-22
+ORD-1419,Richard Decker,Corporate,Germany,South,Technology,Laptop,2962.68,10,0.17,288.8,2023-01-10
+ORD-1420,Kimberly Lowe,Home Office,Australia,West,Technology,Phone,1163.61,6,0.25,302.72,2023-07-07
+ORD-1421,Matthew Browning,Home Office,Canada,Central,Furniture,Sofa,872.94,3,0.22,165.65,2023-02-12
+ORD-1422,Michael Rangel,Consumer,Australia,Central,Technology,Laptop,574.36,4,0.22,72.81,2023-11-12
+ORD-1423,Eric Miranda,Corporate,United Kingdom,Central,Technology,Printer,2938.38,8,0.14,783.37,2023-04-12
+ORD-1424,Judith Price,Home Office,France,East,Office Supplies,Binder,494.71,9,0.2,90.26,2023-06-26
+ORD-1425,Tammy Wagner,Corporate,United States,West,Furniture,Table,1048.29,6,0.17,290.01,2023-05-15
+ORD-1426,Melissa Jones,Corporate,Canada,Central,Technology,Monitor,403.23,2,0.19,37.99,2023-12-26
+ORD-1427,Brittany Martin,Home Office,United States,East,Office Supplies,Pen,1455.32,4,0.05,350.91,2023-07-15
+ORD-1428,Michael Ramos,Corporate,United States,West,Technology,Phone,1032.07,7,0.29,150.51,2023-05-06
+ORD-1429,James Novak,Consumer,France,West,Technology,Printer,344.25,1,0.23,62.91,2023-03-01
+ORD-1430,Scott Smith,Consumer,Australia,East,Technology,Monitor,1259.39,4,0.1,103.56,2023-07-21
+ORD-1431,Lynn Castillo,Corporate,France,Central,Furniture,Chair,142.07,1,0.09,32.95,2023-10-03
+ORD-1432,Warren Miller,Home Office,France,Central,Office Supplies,Binder,2540.36,6,0.15,603.41,2023-04-05
+ORD-1433,Nicholas Yu,Consumer,Germany,East,Furniture,Table,337.04,3,0.01,59.37,2023-12-16
+ORD-1434,Elizabeth Taylor,Consumer,United Kingdom,East,Office Supplies,Pen,2327.21,9,0.18,144.26,2023-12-07
+ORD-1435,Kayla Gomez,Consumer,Australia,East,Furniture,Chair,1530.21,7,0.04,173.2,2023-07-14
+ORD-1436,Shane Brown,Home Office,Canada,West,Technology,Laptop,1048.72,5,0.03,188.85,2023-08-01
+ORD-1437,Zachary Miller,Home Office,France,West,Office Supplies,Paper,3129.41,9,0.04,245.67,2023-02-23
+ORD-1438,Daniel Stewart,Consumer,Germany,West,Technology,Monitor,1481.88,5,0.29,206.69,2023-07-11
+ORD-1439,Samantha Reed,Corporate,United Kingdom,West,Furniture,Sofa,1194.44,4,0.14,129.75,2023-10-22
+ORD-1440,Michelle Henderson,Consumer,Australia,East,Furniture,Sofa,1097.78,3,0.23,75.49,2023-03-12
+ORD-1441,Rachel Webster,Home Office,United States,Central,Technology,Monitor,3599.6,8,0.09,597.78,2023-08-18
+ORD-1442,Kevin Jones,Consumer,Canada,East,Office Supplies,Pen,1273.07,6,0.03,334.58,2023-09-24
+ORD-1443,Benjamin Glenn,Consumer,United States,West,Technology,Monitor,966.69,6,0.13,198.61,2023-06-02
+ORD-1444,Tammy Fuentes,Home Office,United States,Central,Office Supplies,Binder,293.06,2,0.29,34.57,2023-08-21
+ORD-1445,Zachary Spears,Corporate,Australia,South,Office Supplies,Binder,116.89,2,0.22,34.53,2023-01-08
+ORD-1446,Scott Cox,Consumer,United States,South,Technology,Phone,3252.89,10,0.05,471.47,2023-12-27
+ORD-1447,Daniel Meadows,Corporate,France,East,Technology,Monitor,3577.36,8,0.03,546.7,2023-04-03
+ORD-1448,Jeffrey Little,Consumer,United States,Central,Technology,Printer,284.19,1,0.2,68.74,2023-05-04
+ORD-1449,Tammy Gibbs,Home Office,Australia,West,Technology,Printer,1893.54,9,0.21,139.76,2023-04-06
+ORD-1450,Jessica Castaneda,Home Office,Australia,West,Office Supplies,Pen,434.91,7,0.25,118.74,2023-11-14
+ORD-1451,Michael Petersen,Home Office,United States,East,Technology,Monitor,2836.69,9,0.26,758.4,2023-07-30
+ORD-1452,Jason Gutierrez,Consumer,Germany,Central,Furniture,Bookcase,161.22,5,0.07,33.99,2023-08-30
+ORD-1453,Eric Thompson,Corporate,Canada,East,Office Supplies,Stapler,1698.82,10,0.26,274.81,2023-02-02
+ORD-1454,Kelly Taylor,Consumer,Germany,East,Furniture,Sofa,162.05,7,0.16,41.56,2023-01-01
+ORD-1455,Dr. Alyssa Thornton MD,Home Office,France,Central,Technology,Monitor,3386.77,8,0.11,215.29,2023-06-12
+ORD-1456,Stephanie Green,Consumer,Germany,Central,Technology,Phone,2099.86,6,0.03,503.61,2023-04-16
+ORD-1457,Tammy Moyer,Consumer,United States,Central,Office Supplies,Pen,1889.62,9,0.21,116.11,2023-07-11
+ORD-1458,Brett Ward,Consumer,Germany,West,Technology,Phone,253.05,2,0.06,20.29,2023-07-05
+ORD-1459,Marcus Wolfe,Corporate,Canada,South,Furniture,Bookcase,754.38,2,0.01,157.14,2023-09-02
+ORD-1460,Kathryn Henry,Home Office,France,East,Office Supplies,Stapler,4593.89,10,0.04,802.59,2023-02-03
+ORD-1461,Kelly Miller,Home Office,Australia,East,Technology,Phone,2096.44,10,0.15,587.61,2023-10-24
+ORD-1462,Dana Barnett,Consumer,Australia,West,Technology,Monitor,327.72,2,0.18,88.71,2023-08-07
+ORD-1463,James Scott,Home Office,Germany,South,Technology,Monitor,922.32,5,0.1,113.95,2023-03-24
+ORD-1464,Justin Hutchinson,Consumer,Canada,South,Technology,Printer,3069.74,9,0.21,871.43,2023-07-25
+ORD-1465,Tonya Jordan,Home Office,Canada,West,Furniture,Bookcase,2657.55,6,0.04,604.86,2023-05-26
+ORD-1466,Michelle Salas,Consumer,France,Central,Technology,Laptop,1421.89,6,0.17,406.19,2023-09-28
+ORD-1467,Kara Hoffman,Home Office,Germany,Central,Office Supplies,Paper,497.98,9,0.11,31.51,2023-11-24
+ORD-1468,Tiffany Rodriguez,Consumer,Canada,Central,Furniture,Bookcase,400.57,5,0.02,98.58,2023-04-27
+ORD-1469,Brandy Contreras,Consumer,France,East,Office Supplies,Stapler,499.02,2,0.2,95.05,2023-03-20
+ORD-1470,Michael Mcdowell,Consumer,Australia,South,Furniture,Bookcase,408.3,1,0.12,118.07,2023-03-11
+ORD-1471,Kyle Lee,Home Office,United Kingdom,East,Furniture,Bookcase,967.37,4,0.23,258.8,2023-08-16
+ORD-1472,Brittany Weaver,Consumer,Australia,Central,Technology,Monitor,585.77,4,0.05,129.26,2023-10-12
+ORD-1473,Melanie Rhodes,Consumer,Canada,East,Office Supplies,Paper,945.2,7,0.08,85.29,2023-06-20
+ORD-1474,Kristina Jones,Corporate,United States,Central,Office Supplies,Binder,76.78,1,0.1,4.82,2023-07-18
+ORD-1475,Michael Lewis,Home Office,France,Central,Office Supplies,Pen,709.52,2,0.1,74.49,2023-12-16
+ORD-1476,George Peterson,Consumer,France,East,Technology,Monitor,1700.84,7,0.12,233.61,2023-07-16
+ORD-1477,Mikayla Kramer,Consumer,Australia,Central,Office Supplies,Pen,450.6,5,0.23,82.29,2023-03-07
+ORD-1478,Lori Mills,Home Office,Australia,East,Furniture,Bookcase,827.95,8,0.19,231.54,2023-09-10
+ORD-1479,Megan Rodriguez,Consumer,United States,Central,Office Supplies,Paper,741.09,7,0.22,41.63,2023-11-15
+ORD-1480,Colin Allen,Home Office,United Kingdom,South,Office Supplies,Paper,2115.75,5,0.06,377.61,2023-01-30
+ORD-1481,Brandon Barnett,Consumer,Canada,East,Technology,Laptop,1042.46,4,0.23,277.54,2023-06-11
+ORD-1482,Alvin Sosa,Corporate,United States,West,Technology,Phone,714.36,2,0.05,117.73,2023-12-30
+ORD-1483,Jennifer Wright,Corporate,United States,East,Furniture,Chair,993.93,3,0.17,192.56,2023-05-17
+ORD-1484,Michael Austin,Consumer,United Kingdom,South,Office Supplies,Stapler,1539.71,7,0.01,336.16,2023-03-18
+ORD-1485,Debra Jones,Home Office,United States,East,Technology,Laptop,314.96,2,0.15,38.57,2023-07-30
+ORD-1486,Kaitlyn Gomez,Home Office,United Kingdom,East,Office Supplies,Stapler,1140.22,7,0.2,192.12,2023-07-16
+ORD-1487,Kenneth Middleton,Home Office,Canada,West,Technology,Phone,1126.6,9,0.19,140.28,2023-07-31
+ORD-1488,William Jennings,Home Office,Australia,Central,Furniture,Table,50.58,2,0.17,7.51,2023-02-11
+ORD-1489,Brian Lawson,Home Office,United States,Central,Furniture,Bookcase,687.53,4,0.19,122.48,2023-02-02
+ORD-1490,Julie Hodge,Consumer,Canada,West,Technology,Printer,211.74,4,0.2,40.62,2023-12-23
+ORD-1491,Derek Conrad,Consumer,France,South,Technology,Laptop,1560.0,5,0.08,154.99,2023-11-01
+ORD-1492,Jeffrey Bradley,Home Office,Germany,Central,Office Supplies,Binder,191.22,4,0.19,52.59,2023-08-12
+ORD-1493,Matthew Thomas,Corporate,Germany,South,Office Supplies,Pen,702.76,10,0.17,177.04,2023-11-06
+ORD-1494,Stephanie Freeman,Corporate,Canada,East,Office Supplies,Binder,1163.1,4,0.19,138.61,2023-11-30
+ORD-1495,Manuel Gay,Corporate,Canada,Central,Office Supplies,Stapler,1352.48,8,0.09,254.16,2023-06-26
+ORD-1496,Michael Clark,Consumer,Australia,East,Office Supplies,Binder,745.88,9,0.22,154.14,2023-08-22
+ORD-1497,Monica Smith,Home Office,United States,East,Technology,Laptop,2261.18,10,0.23,233.33,2023-12-02
+ORD-1498,Christina Cunningham,Consumer,France,Central,Technology,Phone,528.01,3,0.07,128.33,2023-06-25
+ORD-1499,Kristin Ramirez,Home Office,United Kingdom,West,Office Supplies,Paper,1318.03,7,0.0,144.61,2023-08-10
+ORD-1500,Daniel Jackson,Home Office,Australia,West,Technology,Monitor,584.45,8,0.17,111.89,2023-02-28
+ORD-1501,Victor Lane,Consumer,Australia,South,Office Supplies,Paper,1425.21,4,0.07,165.45,2023-09-20
+ORD-1502,Kevin Allen,Consumer,United States,West,Technology,Printer,1445.64,7,0.14,89.06,2023-08-13
+ORD-1503,Samantha Ayers,Home Office,United Kingdom,East,Technology,Printer,1218.15,5,0.17,175.61,2023-12-08
+ORD-1504,Bobby Fields,Corporate,United Kingdom,East,Technology,Printer,3167.83,7,0.07,479.8,2023-04-08
+ORD-1505,Michael Myers,Corporate,Germany,South,Technology,Laptop,3462.43,9,0.13,372.2,2023-11-20
+ORD-1506,Nathaniel Parsons,Home Office,Australia,Central,Furniture,Table,214.29,3,0.18,54.48,2023-12-24
+ORD-1507,Debra Cook,Home Office,Canada,South,Office Supplies,Paper,2345.12,8,0.14,463.62,2023-11-02
+ORD-1508,Kevin Rodriguez,Home Office,Germany,East,Furniture,Chair,829.38,3,0.05,172.0,2023-05-08
+ORD-1509,Lisa Snyder,Consumer,France,West,Furniture,Table,1963.5,5,0.15,297.2,2023-08-23
+ORD-1510,April Myers,Home Office,Australia,East,Technology,Printer,190.45,2,0.18,31.97,2023-08-27
+ORD-1511,Brian Jimenez,Corporate,Canada,West,Office Supplies,Binder,3914.19,10,0.05,841.21,2023-09-19
+ORD-1512,William Phillips,Corporate,Canada,Central,Office Supplies,Paper,750.03,4,0.04,40.61,2023-02-14
+ORD-1513,Gary Mccormick,Home Office,France,South,Furniture,Chair,598.22,3,0.18,35.75,2023-10-08
+ORD-1514,Lori Willis,Home Office,France,East,Furniture,Sofa,1138.96,3,0.16,57.29,2023-12-09
+ORD-1515,Andrew Garrett,Home Office,Australia,South,Technology,Phone,2079.25,6,0.21,326.94,2023-11-12
+ORD-1516,Janet Nguyen,Corporate,Germany,Central,Technology,Laptop,455.11,7,0.14,49.21,2023-05-10
+ORD-1517,Kevin White,Consumer,United Kingdom,South,Office Supplies,Binder,271.68,1,0.24,52.84,2023-11-28
+ORD-1518,Louis Johnson,Consumer,France,East,Office Supplies,Binder,1224.12,6,0.03,191.6,2023-05-28
+ORD-1519,Kendra Obrien,Home Office,United Kingdom,Central,Technology,Phone,1740.36,10,0.08,383.14,2023-07-23
+ORD-1520,Joseph Smith,Consumer,Germany,South,Furniture,Bookcase,2334.21,9,0.08,295.66,2023-03-01
+ORD-1521,Trevor Butler,Corporate,Australia,South,Technology,Monitor,654.99,2,0.13,147.26,2023-01-07
+ORD-1522,Zachary Decker,Consumer,United States,West,Technology,Phone,1979.91,6,0.18,437.84,2023-12-22
+ORD-1523,Brittany Edwards,Consumer,Canada,South,Technology,Laptop,711.05,2,0.14,142.25,2023-06-15
+ORD-1524,Veronica Brown,Consumer,United States,Central,Furniture,Bookcase,481.14,2,0.22,136.0,2023-10-02
+ORD-1525,Kristen Ruiz,Corporate,France,Central,Technology,Laptop,844.96,3,0.13,84.86,2023-02-13
+ORD-1526,John Garcia,Home Office,France,Central,Furniture,Chair,2055.34,10,0.21,418.87,2023-04-15
+ORD-1527,Kathleen Gomez,Home Office,United States,Central,Furniture,Chair,145.04,3,0.08,21.74,2023-05-07
+ORD-1528,Nicole Delgado,Home Office,Germany,South,Technology,Monitor,124.64,9,0.21,34.87,2023-01-30
+ORD-1529,Teresa Martin,Home Office,United Kingdom,Central,Office Supplies,Pen,1154.77,4,0.06,326.14,2023-01-31
+ORD-1530,Scott Moreno,Home Office,United States,Central,Furniture,Sofa,548.34,9,0.02,67.75,2023-11-15
+ORD-1531,Carla Walsh,Consumer,France,Central,Technology,Printer,3209.58,8,0.17,778.3,2023-05-15
+ORD-1532,William Andrade,Corporate,Germany,South,Technology,Laptop,525.04,8,0.02,109.43,2023-12-10
+ORD-1533,Jay Merritt,Consumer,Australia,West,Office Supplies,Stapler,1578.54,6,0.0,407.33,2023-01-11
+ORD-1534,Sarah Williams,Consumer,United Kingdom,East,Office Supplies,Pen,535.29,2,0.05,68.77,2023-09-19
+ORD-1535,Felicia Little,Consumer,France,Central,Furniture,Table,2761.65,8,0.07,305.2,2023-08-21
+ORD-1536,Melissa Anderson,Corporate,Canada,West,Furniture,Table,1420.27,10,0.23,113.58,2023-05-30
+ORD-1537,Jamie Gomez,Consumer,Australia,South,Technology,Laptop,3236.09,9,0.25,462.11,2023-07-05
+ORD-1538,Matthew Cruz,Corporate,Germany,Central,Office Supplies,Binder,1233.15,9,0.07,239.44,2023-01-20
+ORD-1539,Molly Sullivan,Consumer,France,South,Office Supplies,Paper,1199.93,9,0.26,292.75,2023-03-06
+ORD-1540,Bradley Garcia,Corporate,United States,South,Office Supplies,Paper,302.88,1,0.11,22.77,2023-11-20
+ORD-1541,Tony Perry,Corporate,France,Central,Furniture,Bookcase,403.31,4,0.29,54.76,2023-02-18
+ORD-1542,Christina Wise,Consumer,Germany,South,Furniture,Sofa,997.34,6,0.12,162.25,2023-04-30
+ORD-1543,Julie Pittman,Home Office,Canada,West,Furniture,Bookcase,835.08,4,0.26,82.69,2023-03-21
+ORD-1544,John Scott,Home Office,Canada,South,Furniture,Table,1248.52,7,0.3,327.55,2023-04-04
+ORD-1545,Terry Cooper,Home Office,France,Central,Office Supplies,Pen,1184.62,5,0.17,177.22,2023-04-03
+ORD-1546,Ashley Anderson,Home Office,Canada,East,Furniture,Bookcase,3267.74,8,0.03,771.67,2023-12-09
+ORD-1547,Kimberly Sanchez MD,Corporate,United Kingdom,Central,Technology,Printer,113.59,6,0.04,30.31,2023-08-16
+ORD-1548,Michael Johnson,Home Office,Canada,West,Office Supplies,Pen,1733.29,6,0.15,405.82,2023-12-08
+ORD-1549,Daniel Hanson,Consumer,Germany,Central,Office Supplies,Binder,699.58,3,0.28,108.75,2023-08-18
+ORD-1550,Mark Myers,Home Office,France,South,Furniture,Chair,486.98,3,0.09,103.85,2023-09-05
+ORD-1551,Wendy Dixon,Home Office,United Kingdom,South,Office Supplies,Stapler,1897.41,6,0.16,308.47,2023-01-10
+ORD-1552,Denise Carson,Consumer,Canada,East,Furniture,Table,1859.7,5,0.21,130.21,2023-09-02
+ORD-1553,Bruce Taylor,Consumer,Germany,East,Furniture,Chair,2207.54,8,0.01,329.48,2023-05-12
+ORD-1554,Samantha Aguilar,Consumer,United States,Central,Technology,Monitor,483.07,2,0.27,61.52,2023-12-03
+ORD-1555,Andrew White,Consumer,Australia,Central,Office Supplies,Binder,764.09,3,0.05,44.92,2023-05-15
+ORD-1556,Sarah Wilson,Corporate,United Kingdom,South,Office Supplies,Pen,1456.73,9,0.29,326.9,2023-06-10
+ORD-1557,Steven Cook,Consumer,France,South,Technology,Phone,2445.66,9,0.16,678.01,2023-02-17
+ORD-1558,Martin Acosta,Corporate,France,West,Furniture,Sofa,870.46,5,0.08,109.59,2023-08-28
+ORD-1559,Matthew Garza,Consumer,France,West,Office Supplies,Pen,1720.3,8,0.21,297.58,2023-09-22
+ORD-1560,Julie Luna,Corporate,United Kingdom,East,Office Supplies,Pen,1233.0,10,0.0,176.83,2023-03-30
+ORD-1561,Christopher Delgado,Corporate,France,South,Office Supplies,Binder,875.58,3,0.19,225.12,2023-11-09
+ORD-1562,Stephanie Nicholson,Consumer,United Kingdom,East,Office Supplies,Binder,2526.95,9,0.27,636.52,2023-02-03
+ORD-1563,Travis Fuentes,Home Office,United Kingdom,Central,Technology,Printer,700.54,7,0.02,58.95,2023-10-12
+ORD-1564,Timothy Parker,Consumer,Australia,South,Technology,Phone,1501.23,5,0.15,195.4,2023-08-17
+ORD-1565,Brandon Nelson,Consumer,United States,East,Furniture,Chair,560.54,5,0.21,129.92,2023-12-20
+ORD-1566,Lisa Leon,Consumer,United States,West,Furniture,Sofa,646.25,4,0.09,161.48,2023-09-25
+ORD-1567,Joseph Thompson,Corporate,Germany,East,Office Supplies,Paper,86.53,3,0.23,5.87,2023-03-18
+ORD-1568,Alex Mills,Corporate,Canada,West,Office Supplies,Stapler,53.72,1,0.23,6.03,2023-04-22
+ORD-1569,Evan Yates,Corporate,Canada,East,Furniture,Sofa,376.81,2,0.29,63.38,2023-06-14
+ORD-1570,Jason Edwards,Home Office,United Kingdom,Central,Furniture,Chair,2196.27,9,0.08,460.4,2023-03-30
+ORD-1571,Kimberly Davis,Consumer,United Kingdom,East,Technology,Monitor,218.58,2,0.13,11.75,2023-03-23
+ORD-1572,Austin Jackson,Corporate,France,East,Office Supplies,Binder,402.33,1,0.17,89.59,2023-02-24
+ORD-1573,Ryan Coleman,Home Office,France,West,Office Supplies,Paper,338.61,4,0.03,69.3,2023-10-29
+ORD-1574,Karen Everett,Home Office,United States,East,Office Supplies,Binder,3437.16,9,0.04,371.79,2023-09-01
+ORD-1575,Laura Buchanan,Home Office,Australia,Central,Office Supplies,Binder,309.48,1,0.11,25.9,2023-03-29
+ORD-1576,Brittany Johnson,Consumer,Germany,South,Technology,Printer,2974.11,9,0.06,287.47,2023-04-30
+ORD-1577,Nicholas Gardner,Corporate,United Kingdom,South,Office Supplies,Binder,470.25,2,0.13,119.85,2023-08-17
+ORD-1578,Michael Roberts,Home Office,United Kingdom,South,Furniture,Sofa,1075.62,3,0.19,151.68,2023-02-18
+ORD-1579,Samantha Mckinney,Home Office,Canada,Central,Technology,Laptop,3479.85,9,0.06,768.37,2023-05-09
+ORD-1580,Leslie Ramos,Home Office,Canada,Central,Office Supplies,Stapler,323.22,6,0.16,21.55,2023-11-27
+ORD-1581,Wendy Roth,Consumer,Canada,East,Furniture,Chair,822.81,8,0.01,173.15,2023-04-17
+ORD-1582,Brandon Chandler,Corporate,Australia,South,Technology,Printer,155.4,1,0.18,10.52,2023-06-20
+ORD-1583,Robin Davis,Consumer,Australia,South,Furniture,Sofa,145.74,1,0.22,39.73,2023-12-21
+ORD-1584,Michael Farrell,Corporate,Australia,East,Technology,Printer,263.89,9,0.02,33.24,2023-09-15
+ORD-1585,Amber Knight,Consumer,France,East,Furniture,Table,1681.93,9,0.06,360.3,2023-02-19
+ORD-1586,Jamie Anderson,Home Office,Australia,West,Technology,Phone,639.9,2,0.17,139.9,2023-11-04
+ORD-1587,Terry Pace,Home Office,Australia,South,Furniture,Table,712.67,3,0.15,152.78,2023-06-18
+ORD-1588,Timothy Bruce,Home Office,France,South,Office Supplies,Pen,4016.14,9,0.1,574.03,2023-01-24
+ORD-1589,Michael Barber,Home Office,Germany,Central,Technology,Monitor,2468.5,10,0.11,462.99,2023-11-03
+ORD-1590,Emily Ford,Home Office,United Kingdom,Central,Office Supplies,Stapler,69.99,7,0.01,8.48,2023-07-02
+ORD-1591,Michael Crane,Consumer,France,West,Office Supplies,Paper,2314.05,5,0.06,297.88,2023-12-16
+ORD-1592,Ashley Sutton,Home Office,United Kingdom,West,Furniture,Chair,1415.19,8,0.04,200.63,2023-10-10
+ORD-1593,Sean Mclaughlin,Home Office,Canada,West,Office Supplies,Pen,480.64,2,0.17,50.16,2023-04-26
+ORD-1594,Brittney Santiago,Consumer,Australia,Central,Office Supplies,Binder,2620.27,8,0.21,508.48,2023-01-24
+ORD-1595,William West,Consumer,France,Central,Furniture,Sofa,564.85,2,0.28,75.46,2023-05-18
+ORD-1596,Paul Lane,Corporate,Germany,East,Furniture,Chair,214.74,7,0.16,27.88,2023-06-12
+ORD-1597,Tammy Good,Home Office,Canada,Central,Technology,Monitor,81.31,3,0.22,12.05,2023-08-07
+ORD-1598,Carly Murray,Corporate,France,East,Furniture,Sofa,1897.54,5,0.04,254.35,2023-05-07
+ORD-1599,Erin Moreno,Corporate,France,East,Technology,Phone,219.68,5,0.15,53.48,2023-07-27
+ORD-1600,Jacob Arnold,Consumer,Canada,South,Technology,Monitor,1352.63,8,0.17,257.39,2023-12-23
+ORD-1601,Zoe Williams,Home Office,France,West,Furniture,Chair,1757.79,5,0.1,494.0,2023-02-17
+ORD-1602,Thomas Black,Consumer,United States,South,Office Supplies,Pen,558.04,6,0.1,119.34,2023-07-22
+ORD-1603,Brandon Keller,Corporate,Canada,Central,Technology,Phone,806.36,10,0.01,205.25,2023-07-31
+ORD-1604,Heather Cox,Consumer,Australia,Central,Furniture,Chair,692.65,2,0.07,142.17,2023-05-10
+ORD-1605,Vincent Warner,Consumer,United Kingdom,East,Office Supplies,Paper,1141.12,5,0.01,116.68,2023-03-06
+ORD-1606,Joshua Miller,Home Office,Canada,West,Technology,Printer,1731.69,9,0.22,147.78,2023-04-11
+ORD-1607,Elizabeth Barr,Home Office,Australia,East,Office Supplies,Paper,425.24,5,0.09,105.16,2023-12-06
+ORD-1608,Isabella Jennings,Home Office,United Kingdom,East,Office Supplies,Paper,368.81,2,0.08,97.0,2023-10-11
+ORD-1609,Heather Porter,Home Office,United Kingdom,East,Furniture,Bookcase,767.97,7,0.11,225.9,2023-07-04
+ORD-1610,Larry Castillo,Consumer,United Kingdom,South,Technology,Laptop,228.87,3,0.29,43.52,2023-03-16
+ORD-1611,Meghan Fields,Home Office,United States,East,Furniture,Bookcase,1170.33,6,0.22,63.89,2023-11-19
+ORD-1612,Jonathan Harris,Home Office,United Kingdom,Central,Technology,Printer,1414.43,4,0.29,168.27,2023-09-01
+ORD-1613,Linda Patel,Consumer,Australia,Central,Office Supplies,Paper,3976.34,9,0.07,538.58,2023-04-06
+ORD-1614,Megan Blake,Corporate,Australia,West,Furniture,Sofa,3547.57,9,0.18,732.15,2023-06-25
+ORD-1615,Judy Hunter,Consumer,Germany,West,Technology,Monitor,2481.21,7,0.27,328.32,2023-07-15
+ORD-1616,Erin Thomas,Home Office,Canada,West,Technology,Monitor,2091.98,10,0.24,555.73,2023-05-23
+ORD-1617,Eric Sullivan,Corporate,Australia,West,Office Supplies,Binder,4134.42,10,0.1,782.79,2023-01-10
+ORD-1618,Cathy Barton,Home Office,United States,West,Office Supplies,Binder,284.94,1,0.26,43.74,2023-10-04
+ORD-1619,Caleb Mitchell,Corporate,United Kingdom,South,Technology,Printer,1140.02,3,0.03,109.65,2023-05-13
+ORD-1620,Tracey Gonzales,Home Office,France,Central,Technology,Monitor,977.78,10,0.21,136.71,2023-05-19
+ORD-1621,Kristen Edwards,Home Office,Germany,West,Technology,Phone,528.79,6,0.12,89.08,2023-10-26
+ORD-1622,William Salinas,Consumer,Canada,West,Furniture,Sofa,329.06,1,0.29,34.76,2023-11-29
+ORD-1623,Michael Best,Home Office,Canada,West,Furniture,Table,2957.25,8,0.15,388.06,2023-12-21
+ORD-1624,Lori Manning,Corporate,Canada,South,Office Supplies,Paper,3295.76,10,0.11,422.6,2023-02-17
+ORD-1625,David Nguyen,Home Office,Australia,East,Technology,Laptop,1384.57,8,0.26,373.07,2023-11-29
+ORD-1626,Gregory Adams,Consumer,France,South,Technology,Laptop,1384.75,9,0.23,402.47,2023-03-24
+ORD-1627,Benjamin Underwood,Consumer,United Kingdom,South,Office Supplies,Pen,1026.86,5,0.13,208.74,2023-01-16
+ORD-1628,Hannah Sullivan,Consumer,Australia,West,Office Supplies,Stapler,706.35,2,0.03,172.83,2023-07-09
+ORD-1629,Antonio James,Home Office,France,West,Office Supplies,Stapler,1316.3,6,0.05,260.07,2023-02-28
+ORD-1630,Julia Turner,Home Office,Canada,South,Furniture,Bookcase,1528.36,6,0.27,380.75,2023-03-23
+ORD-1631,Steven Davenport,Home Office,Australia,East,Furniture,Chair,2488.63,8,0.03,564.47,2023-06-26
+ORD-1632,Joseph Lozano,Home Office,France,West,Office Supplies,Stapler,282.11,1,0.27,53.99,2023-04-27
+ORD-1633,Lisa Romero,Home Office,Canada,West,Furniture,Table,196.2,1,0.09,47.51,2023-08-12
+ORD-1634,Jonathan Charles,Corporate,United Kingdom,West,Furniture,Table,36.13,4,0.23,1.92,2023-04-03
+ORD-1635,Sheila Harrell DDS,Corporate,Germany,East,Technology,Phone,372.06,4,0.2,60.81,2023-05-16
+ORD-1636,Katelyn White,Corporate,United States,East,Furniture,Bookcase,2385.22,10,0.25,243.08,2023-08-20
+ORD-1637,Joshua Craig,Consumer,Canada,East,Technology,Printer,80.42,1,0.01,15.64,2023-06-23
+ORD-1638,Chelsea Alexander,Home Office,United Kingdom,Central,Furniture,Chair,407.19,2,0.05,88.78,2023-07-20
+ORD-1639,Edwin Morris,Home Office,Australia,West,Office Supplies,Pen,50.62,1,0.09,7.2,2023-11-30
+ORD-1640,Donald Ramos,Corporate,United States,South,Technology,Laptop,1155.36,5,0.04,306.0,2023-03-10
+ORD-1641,Sharon Melton,Corporate,France,South,Technology,Monitor,1202.45,4,0.03,279.49,2023-04-26
+ORD-1642,Brandon Weaver,Home Office,France,East,Office Supplies,Pen,1964.06,7,0.09,356.18,2023-11-08
+ORD-1643,James Chung,Home Office,United Kingdom,West,Technology,Phone,2809.85,9,0.15,708.07,2023-12-06
+ORD-1644,Daniel Ramirez,Home Office,Canada,Central,Furniture,Chair,35.23,2,0.19,2.8,2023-05-18
+ORD-1645,Marco Jones,Consumer,France,South,Office Supplies,Paper,826.86,6,0.24,85.24,2023-06-23
+ORD-1646,Laurie Ray,Home Office,Canada,Central,Office Supplies,Paper,659.99,5,0.16,159.56,2023-06-06
+ORD-1647,Jennifer Brown,Consumer,Australia,Central,Office Supplies,Stapler,3087.22,10,0.01,289.91,2023-11-05
+ORD-1648,Adrian Moyer,Corporate,United Kingdom,South,Office Supplies,Paper,597.61,3,0.19,163.16,2023-06-23
+ORD-1649,Autumn Lopez,Home Office,United Kingdom,South,Office Supplies,Paper,1099.89,9,0.22,141.75,2023-02-22
+ORD-1650,Carla Williams,Home Office,United States,West,Technology,Printer,244.45,6,0.04,63.6,2023-01-15
+ORD-1651,Amanda Lopez,Corporate,Germany,West,Technology,Phone,669.64,3,0.26,159.3,2023-11-08
+ORD-1652,Karen Nguyen,Home Office,United Kingdom,East,Office Supplies,Stapler,471.62,2,0.07,76.86,2023-08-28
+ORD-1653,Brandi Blackburn,Corporate,Canada,Central,Furniture,Chair,1823.14,6,0.23,507.45,2023-02-06
+ORD-1654,Kevin Shah,Corporate,France,East,Office Supplies,Binder,600.64,4,0.15,161.25,2023-04-17
+ORD-1655,Robert Simpson,Corporate,United Kingdom,West,Furniture,Table,1255.74,4,0.14,286.84,2023-05-11
+ORD-1656,Nancy Wilson,Home Office,United States,East,Office Supplies,Paper,3934.98,10,0.1,1071.48,2023-09-09
+ORD-1657,Melinda Colon,Consumer,France,Central,Furniture,Bookcase,628.78,4,0.06,74.93,2023-08-01
+ORD-1658,Cheryl Thomas,Corporate,Germany,East,Office Supplies,Binder,432.24,3,0.0,88.93,2023-02-09
+ORD-1659,Nathaniel Sloan,Home Office,United States,West,Technology,Printer,1434.76,9,0.04,324.38,2023-07-22
+ORD-1660,Jason Ross,Corporate,France,West,Furniture,Chair,1397.25,5,0.1,224.83,2023-01-25
+ORD-1661,Regina Golden,Consumer,United States,South,Technology,Laptop,384.04,2,0.03,56.83,2023-03-26
+ORD-1662,Raymond Mclean,Home Office,France,South,Technology,Printer,812.35,5,0.06,194.64,2023-06-01
+ORD-1663,Michael Duncan,Home Office,United States,South,Technology,Monitor,587.95,2,0.28,98.23,2023-06-29
+ORD-1664,Hannah Young,Corporate,United Kingdom,South,Office Supplies,Binder,234.83,4,0.27,26.89,2023-03-15
+ORD-1665,Dawn Hernandez,Corporate,Germany,West,Technology,Printer,1378.73,6,0.01,232.78,2023-01-14
+ORD-1666,Stephanie Washington,Corporate,Germany,South,Furniture,Bookcase,1763.6,6,0.04,133.56,2023-03-17
+ORD-1667,Bill Reed,Home Office,United States,Central,Technology,Laptop,1192.62,5,0.12,182.9,2023-11-05
+ORD-1668,Kiara Sanchez,Home Office,Canada,West,Office Supplies,Stapler,268.96,2,0.24,53.18,2023-03-22
+ORD-1669,Jodi Webb,Corporate,France,Central,Technology,Monitor,983.96,3,0.02,278.18,2023-07-02
+ORD-1670,Katie Bowman,Home Office,Germany,East,Technology,Phone,1268.95,6,0.25,119.34,2023-01-29
+ORD-1671,Billy Burton,Corporate,United States,East,Technology,Phone,1210.56,6,0.2,87.93,2023-09-02
+ORD-1672,Kim Smith,Consumer,France,East,Furniture,Table,1903.05,8,0.12,370.11,2023-08-02
+ORD-1673,Elizabeth Miller,Consumer,Canada,Central,Office Supplies,Pen,1848.39,7,0.27,550.03,2023-12-10
+ORD-1674,Mark Rivera,Home Office,United States,South,Furniture,Bookcase,160.37,1,0.16,10.15,2023-08-12
+ORD-1675,James Castillo,Home Office,France,Central,Furniture,Bookcase,98.96,1,0.21,14.7,2023-06-12
+ORD-1676,Veronica Griffith,Corporate,Australia,South,Office Supplies,Stapler,1551.82,7,0.2,261.82,2023-10-27
+ORD-1677,Jennifer Perry,Consumer,France,South,Office Supplies,Stapler,336.0,3,0.26,27.35,2023-05-22
+ORD-1678,Shawn Watts,Consumer,United States,East,Furniture,Sofa,3277.61,7,0.04,276.32,2023-01-06
+ORD-1679,William Valenzuela,Corporate,Germany,South,Technology,Monitor,1723.81,8,0.17,280.14,2023-05-19
+ORD-1680,Linda Kane,Corporate,Canada,West,Office Supplies,Paper,1981.98,10,0.22,451.96,2023-01-16
+ORD-1681,Paul Mathis,Corporate,Germany,Central,Furniture,Chair,2196.52,10,0.11,428.47,2023-02-08
+ORD-1682,Robert Morgan,Home Office,United States,West,Technology,Printer,1769.44,8,0.16,358.34,2023-12-27
+ORD-1683,John Taylor,Consumer,Germany,East,Technology,Printer,322.74,10,0.1,78.95,2023-07-29
+ORD-1684,Jamie Hudson,Corporate,Germany,South,Technology,Printer,909.16,7,0.29,112.42,2023-04-30
+ORD-1685,Julie Williams,Consumer,United States,Central,Technology,Printer,264.24,1,0.17,51.06,2023-12-19
+ORD-1686,Jessica Taylor,Home Office,United Kingdom,East,Office Supplies,Stapler,141.39,2,0.02,34.77,2023-11-16
+ORD-1687,Matthew Hernandez,Corporate,Canada,Central,Office Supplies,Pen,306.11,1,0.18,84.96,2023-01-02
+ORD-1688,Patricia Cooke,Home Office,Canada,South,Office Supplies,Binder,1829.5,5,0.07,174.17,2023-03-20
+ORD-1689,Todd Sanford,Home Office,United States,Central,Furniture,Table,4442.48,10,0.05,772.93,2023-08-15
+ORD-1690,Gregory Thomas,Corporate,Germany,West,Technology,Phone,265.17,3,0.22,36.13,2023-06-06
+ORD-1691,Hector Ray,Home Office,United Kingdom,East,Furniture,Table,1495.17,8,0.09,353.66,2023-01-06
+ORD-1692,Heather Johnson,Home Office,Canada,South,Technology,Phone,932.0,8,0.16,147.89,2023-11-30
+ORD-1693,Mrs. Catherine Ball MD,Corporate,Germany,South,Technology,Printer,3070.48,9,0.01,857.98,2023-08-20
+ORD-1694,Kevin Burch,Home Office,United Kingdom,South,Technology,Printer,649.62,6,0.24,73.95,2023-09-03
+ORD-1695,Joanne Williams,Home Office,Germany,South,Technology,Monitor,3255.34,10,0.16,714.32,2023-05-19
+ORD-1696,Tyler Wilson,Consumer,United Kingdom,East,Technology,Laptop,30.77,2,0.03,2.34,2023-12-30
+ORD-1697,Alexis Collins,Corporate,United Kingdom,West,Technology,Printer,517.82,5,0.01,37.79,2023-06-29
+ORD-1698,Juan Green,Home Office,Australia,West,Technology,Laptop,85.82,2,0.18,12.36,2023-02-27
+ORD-1699,Emily Douglas,Home Office,France,West,Furniture,Table,617.36,5,0.2,42.55,2023-11-09
+ORD-1700,Andrea Leblanc,Corporate,United Kingdom,South,Technology,Printer,437.86,5,0.02,106.96,2023-02-14
+ORD-1701,John Branch,Corporate,Germany,Central,Furniture,Bookcase,476.23,5,0.02,140.42,2023-09-15
+ORD-1702,Stephen Moreno,Consumer,France,South,Furniture,Sofa,123.97,2,0.23,12.97,2023-09-05
+ORD-1703,Tracy Howard,Home Office,United States,South,Technology,Printer,53.08,2,0.02,12.31,2023-11-03
+ORD-1704,Marcus Ramirez,Corporate,United States,South,Furniture,Chair,308.81,1,0.08,69.49,2023-12-15
+ORD-1705,Donald Douglas,Corporate,France,East,Technology,Phone,1342.02,8,0.25,329.11,2023-03-02
+ORD-1706,Frank Barnes,Consumer,France,West,Furniture,Sofa,466.3,8,0.16,138.91,2023-10-20
+ORD-1707,Samantha Harris,Corporate,Australia,Central,Office Supplies,Paper,279.75,2,0.26,37.77,2023-05-12
+ORD-1708,Derek Roman,Corporate,United Kingdom,West,Furniture,Chair,2126.05,7,0.09,313.65,2023-08-10
+ORD-1709,Michael Sharp,Consumer,Australia,Central,Office Supplies,Paper,2843.98,8,0.04,279.49,2023-02-09
+ORD-1710,Jason Collier,Home Office,France,West,Office Supplies,Stapler,645.47,2,0.19,112.91,2023-05-31
+ORD-1711,Gary Stanley,Corporate,United States,East,Office Supplies,Paper,2352.3,6,0.01,187.12,2023-12-21
+ORD-1712,Mark Fowler,Home Office,Australia,South,Technology,Monitor,1216.77,10,0.02,284.56,2023-07-19
+ORD-1713,Robert Fernandez,Corporate,Australia,East,Office Supplies,Paper,1357.98,4,0.04,126.38,2023-09-06
+ORD-1714,Veronica Rivera,Consumer,United Kingdom,East,Office Supplies,Binder,310.05,10,0.25,24.35,2023-10-15
+ORD-1715,Sean Wright,Home Office,France,West,Furniture,Table,920.33,7,0.25,215.8,2023-09-26
+ORD-1716,David Thomas,Corporate,United Kingdom,East,Technology,Monitor,1914.52,6,0.24,461.51,2023-02-16
+ORD-1717,Laura Harris,Home Office,Canada,Central,Furniture,Chair,348.52,5,0.12,78.09,2023-03-14
+ORD-1718,Victoria Gomez,Home Office,Canada,South,Furniture,Chair,132.7,3,0.25,26.95,2023-12-28
+ORD-1719,Michael Moore,Consumer,United States,South,Furniture,Chair,94.97,1,0.03,20.22,2023-12-23
+ORD-1720,Chad Mccoy PhD,Corporate,Germany,South,Technology,Monitor,294.8,4,0.08,47.94,2023-03-06
+ORD-1721,Mrs. Donna Huang,Consumer,Canada,East,Technology,Monitor,2404.82,8,0.03,617.13,2023-09-14
+ORD-1722,Madison Tran,Corporate,United Kingdom,South,Furniture,Table,227.07,4,0.16,16.79,2023-10-17
+ORD-1723,Terry Joseph,Corporate,France,West,Office Supplies,Binder,174.6,5,0.03,15.24,2023-04-02
+ORD-1724,Lauren Garrison,Corporate,Germany,West,Furniture,Chair,296.64,1,0.09,47.07,2023-08-25
+ORD-1725,Jeffrey Velasquez,Corporate,France,South,Furniture,Chair,440.02,1,0.05,108.41,2023-12-07
+ORD-1726,James Cohen,Corporate,France,East,Furniture,Table,2163.1,8,0.1,215.63,2023-12-21
+ORD-1727,Amy Williams,Home Office,United Kingdom,West,Furniture,Bookcase,181.12,4,0.22,48.44,2023-11-11
+ORD-1728,Lauren Jones,Corporate,Canada,East,Office Supplies,Stapler,428.49,1,0.04,120.82,2023-04-10
+ORD-1729,Patricia Moore,Corporate,Canada,South,Office Supplies,Binder,2350.36,8,0.19,690.74,2023-12-05
+ORD-1730,Robert Allen,Consumer,United Kingdom,West,Furniture,Chair,284.49,5,0.26,46.84,2023-09-16
+ORD-1731,Valerie Hubbard,Consumer,United Kingdom,West,Office Supplies,Binder,3765.96,10,0.17,708.71,2023-03-02
+ORD-1732,Travis Fernandez,Consumer,United States,South,Technology,Phone,899.61,4,0.25,107.77,2023-02-26
+ORD-1733,Linda Phelps,Home Office,Germany,West,Furniture,Bookcase,1502.03,7,0.27,297.32,2023-06-05
+ORD-1734,Matthew Lawson,Consumer,France,East,Office Supplies,Paper,386.66,1,0.22,68.07,2023-07-27
+ORD-1735,Kimberly Miller,Corporate,France,South,Office Supplies,Paper,1981.09,8,0.02,472.03,2023-09-28
+ORD-1736,Deborah Sutton,Home Office,Australia,South,Furniture,Table,753.01,6,0.19,54.73,2023-10-09
+ORD-1737,Laura Liu,Corporate,Australia,Central,Furniture,Sofa,3724.08,10,0.01,609.67,2023-02-18
+ORD-1738,Jonathan Conley,Consumer,Australia,South,Furniture,Bookcase,2839.28,8,0.0,587.24,2023-10-03
+ORD-1739,Whitney Fleming,Corporate,Australia,Central,Technology,Laptop,1005.97,5,0.08,288.23,2023-08-27
+ORD-1740,Christina Arroyo,Home Office,France,West,Technology,Laptop,3444.64,10,0.22,219.43,2023-06-18
+ORD-1741,Tyler Cuevas,Home Office,United Kingdom,East,Furniture,Sofa,1413.84,6,0.01,200.21,2023-05-14
+ORD-1742,Jennifer Duarte,Home Office,France,East,Technology,Monitor,1369.36,3,0.07,107.34,2023-02-19
+ORD-1743,Andrea Mcdonald,Corporate,Australia,West,Technology,Monitor,1009.22,6,0.08,222.09,2023-03-05
+ORD-1744,Bobby Byrd,Corporate,United States,East,Office Supplies,Pen,1668.24,8,0.16,134.59,2023-01-11
+ORD-1745,Danielle Carroll,Home Office,France,Central,Office Supplies,Pen,149.34,2,0.27,10.73,2023-11-14
+ORD-1746,Scott Garrison,Corporate,Canada,Central,Furniture,Chair,344.15,3,0.21,59.91,2023-05-26
+ORD-1747,Kurt Branch,Consumer,France,East,Office Supplies,Stapler,3611.02,9,0.14,559.83,2023-01-13
+ORD-1748,Ebony Mitchell,Home Office,Australia,East,Office Supplies,Binder,31.62,2,0.24,8.18,2023-04-16
+ORD-1749,Heather Soto,Home Office,Australia,Central,Office Supplies,Pen,1191.41,6,0.2,217.48,2023-02-14
+ORD-1750,Margaret Wilcox,Home Office,Germany,South,Office Supplies,Binder,433.09,5,0.08,74.08,2023-12-23
+ORD-1751,Kyle Valenzuela,Corporate,United States,West,Office Supplies,Pen,3100.94,8,0.19,279.7,2023-01-10
+ORD-1752,Rebecca Marshall,Home Office,United Kingdom,West,Furniture,Table,375.91,3,0.01,48.55,2023-03-09
+ORD-1753,Lisa Diaz,Consumer,Germany,Central,Office Supplies,Binder,1131.06,4,0.01,146.17,2023-04-02
+ORD-1754,Julie Marsh,Corporate,Canada,Central,Office Supplies,Binder,1022.28,9,0.28,154.51,2023-08-23
+ORD-1755,Jacqueline Williams,Corporate,Canada,South,Office Supplies,Binder,407.71,1,0.16,72.1,2023-06-15
+ORD-1756,Sharon Martin,Home Office,Australia,Central,Office Supplies,Pen,2559.45,10,0.24,594.14,2023-09-02
+ORD-1757,Colleen Jordan,Corporate,United Kingdom,East,Technology,Phone,65.01,1,0.17,8.26,2023-11-30
+ORD-1758,Eric Jones Jr.,Corporate,France,West,Office Supplies,Pen,278.67,2,0.18,27.53,2023-08-27
+ORD-1759,Johnny Williamson,Home Office,Canada,Central,Furniture,Chair,476.45,2,0.13,103.81,2023-07-30
+ORD-1760,Lynn Charles,Consumer,France,South,Furniture,Sofa,1558.31,6,0.15,99.75,2023-07-25
+ORD-1761,Casey Reyes,Home Office,United Kingdom,South,Furniture,Sofa,1195.2,6,0.0,162.82,2023-05-07
+ORD-1762,Tammy Reed,Corporate,Germany,East,Furniture,Sofa,2572.27,7,0.09,646.72,2023-08-02
+ORD-1763,Jason Olson,Corporate,Australia,South,Furniture,Chair,288.47,3,0.14,76.99,2023-04-08
+ORD-1764,Keith Dean,Corporate,United States,South,Furniture,Chair,2080.18,7,0.08,194.96,2023-01-13
+ORD-1765,Alvin Lane,Corporate,Australia,West,Furniture,Table,903.45,7,0.15,231.01,2023-07-03
+ORD-1766,Michael Mitchell,Corporate,France,Central,Office Supplies,Stapler,92.6,4,0.0,10.71,2023-01-24
+ORD-1767,Austin Reid,Home Office,Australia,South,Furniture,Bookcase,500.22,7,0.27,105.64,2023-01-27
+ORD-1768,Matthew Ellis,Consumer,United States,Central,Office Supplies,Paper,3115.24,10,0.17,596.24,2023-04-03
+ORD-1769,Jeffrey Miller,Corporate,Australia,South,Technology,Laptop,1300.48,6,0.17,339.84,2023-10-17
+ORD-1770,Michael Morrison,Consumer,France,East,Furniture,Bookcase,3382.12,8,0.04,307.19,2023-06-07
+ORD-1771,Nathan Garcia,Corporate,United Kingdom,South,Technology,Printer,127.71,1,0.16,36.28,2023-03-02
+ORD-1772,Katherine Delgado,Home Office,Canada,West,Furniture,Table,1376.58,9,0.09,359.63,2023-04-02
+ORD-1773,Roger Craig,Corporate,United Kingdom,Central,Furniture,Bookcase,41.13,3,0.16,5.89,2023-12-04
+ORD-1774,Ryan Ibarra,Corporate,Germany,Central,Furniture,Chair,318.92,4,0.07,30.97,2023-03-06
+ORD-1775,Gregory Heath,Home Office,France,East,Office Supplies,Stapler,128.87,2,0.04,7.0,2023-06-23
+ORD-1776,Jared Bates,Corporate,United Kingdom,Central,Furniture,Sofa,1890.94,10,0.29,175.96,2023-03-08
+ORD-1777,Brad Sims,Corporate,United States,East,Furniture,Table,947.69,3,0.09,97.1,2023-03-26
+ORD-1778,Joy Johnston,Consumer,Germany,East,Furniture,Chair,3018.23,8,0.01,232.27,2023-02-08
+ORD-1779,Craig Anderson,Home Office,France,East,Office Supplies,Paper,142.01,5,0.09,7.47,2023-01-06
+ORD-1780,Christopher Watson,Consumer,United States,West,Technology,Monitor,1005.61,3,0.01,86.87,2023-02-01
+ORD-1781,Ashley Smith,Home Office,United Kingdom,Central,Office Supplies,Binder,2897.31,9,0.18,510.59,2023-03-18
+ORD-1782,Kristin Eaton,Consumer,United States,East,Technology,Monitor,1833.46,4,0.05,437.29,2023-05-15
+ORD-1783,Mary Harrison,Consumer,Australia,East,Furniture,Sofa,1985.79,6,0.06,433.66,2023-11-27
+ORD-1784,Dennis Ross,Consumer,Canada,Central,Office Supplies,Stapler,922.17,4,0.12,221.65,2023-02-26
+ORD-1785,Sean Farmer,Corporate,United States,South,Furniture,Table,2423.78,8,0.21,458.78,2023-06-29
+ORD-1786,Kristina Christensen,Consumer,United States,Central,Office Supplies,Paper,855.09,7,0.18,109.45,2023-05-23
+ORD-1787,Cynthia Trujillo,Corporate,Canada,South,Office Supplies,Stapler,1255.07,4,0.27,314.53,2023-09-10
+ORD-1788,Jose Johnson,Home Office,United Kingdom,West,Furniture,Sofa,343.09,2,0.16,75.18,2023-08-15
+ORD-1789,Karen Brennan,Consumer,Canada,South,Office Supplies,Paper,88.84,3,0.29,11.96,2023-08-07
+ORD-1790,Teresa Clark,Home Office,Germany,East,Furniture,Sofa,925.69,8,0.21,180.95,2023-12-16
+ORD-1791,Kevin Mathis,Corporate,Australia,South,Office Supplies,Stapler,3328.99,10,0.3,592.07,2023-12-18
+ORD-1792,William Nguyen,Consumer,Germany,East,Furniture,Bookcase,1643.72,8,0.19,137.5,2023-09-25
+ORD-1793,Elizabeth Byrd,Consumer,Australia,East,Furniture,Sofa,432.82,1,0.11,95.13,2023-01-13
+ORD-1794,Michael Allen,Consumer,United Kingdom,East,Furniture,Sofa,697.28,8,0.2,120.32,2023-02-12
+ORD-1795,Katherine Stevens,Corporate,France,Central,Technology,Laptop,366.63,1,0.26,29.25,2023-12-05
+ORD-1796,Debbie Mcbride MD,Corporate,United Kingdom,South,Office Supplies,Stapler,21.66,1,0.17,5.74,2023-10-17
+ORD-1797,Kyle Walker,Corporate,Australia,West,Office Supplies,Stapler,430.61,3,0.12,103.78,2023-04-21
+ORD-1798,Nathan Kennedy,Home Office,Australia,South,Technology,Phone,2169.88,8,0.05,138.73,2023-10-01
+ORD-1799,Ashley Clarke,Corporate,Germany,South,Technology,Printer,826.85,5,0.01,50.67,2023-09-07
+ORD-1800,John Hobbs,Corporate,United Kingdom,East,Technology,Printer,363.51,7,0.1,50.65,2023-10-14
+ORD-1801,Nathan Pham,Corporate,United States,West,Furniture,Table,1096.24,5,0.27,72.76,2023-09-14
+ORD-1802,Ashley Brock,Corporate,United States,Central,Furniture,Chair,1314.25,9,0.14,349.38,2023-03-22
+ORD-1803,Michelle Lewis,Home Office,France,South,Office Supplies,Paper,1669.42,8,0.3,241.12,2023-02-16
+ORD-1804,Jeffrey Franklin,Corporate,United Kingdom,East,Office Supplies,Paper,593.71,4,0.15,143.22,2023-01-05
+ORD-1805,Tony Baker,Corporate,Canada,Central,Office Supplies,Stapler,760.53,4,0.25,187.69,2023-09-28
+ORD-1806,Matthew Smith,Home Office,Canada,Central,Office Supplies,Paper,2191.86,5,0.12,233.37,2023-12-24
+ORD-1807,Christina Payne,Home Office,United States,East,Technology,Printer,163.25,5,0.24,27.56,2023-05-12
+ORD-1808,Jeff English PhD,Consumer,United Kingdom,East,Technology,Printer,3163.48,9,0.13,585.2,2023-09-19
+ORD-1809,April Watkins,Consumer,Germany,South,Office Supplies,Stapler,877.55,9,0.01,198.18,2023-10-21
+ORD-1810,Brittany Pierce,Consumer,France,South,Furniture,Sofa,1970.68,5,0.16,401.24,2023-04-17
+ORD-1811,Mackenzie Jones,Corporate,France,East,Technology,Monitor,1320.34,6,0.07,312.4,2023-04-29
+ORD-1812,Ronald Kim,Corporate,Germany,South,Office Supplies,Paper,1562.23,4,0.08,190.22,2023-08-10
+ORD-1813,Zoe Clark,Consumer,United Kingdom,West,Office Supplies,Binder,165.29,2,0.01,41.2,2023-07-12
+ORD-1814,Joseph Klein,Corporate,Germany,South,Technology,Phone,2266.04,7,0.01,203.58,2023-06-13
+ORD-1815,Michael Robinson,Consumer,United States,Central,Office Supplies,Binder,409.92,1,0.15,22.54,2023-03-27
+ORD-1816,Nancy Hernandez,Consumer,United Kingdom,Central,Furniture,Sofa,1485.35,6,0.27,221.65,2023-01-28
+ORD-1817,Alan Olsen,Home Office,Canada,West,Furniture,Chair,2505.96,9,0.17,610.9,2023-08-18
+ORD-1818,Megan Sims,Home Office,United Kingdom,South,Furniture,Table,531.39,10,0.24,70.31,2023-08-12
+ORD-1819,James Mann,Home Office,Australia,South,Technology,Monitor,793.21,7,0.03,82.12,2023-04-08
+ORD-1820,Maurice Morrow,Corporate,Germany,South,Office Supplies,Paper,1715.25,8,0.21,134.2,2023-03-26
+ORD-1821,Crystal Romero,Home Office,Germany,South,Technology,Monitor,1587.31,5,0.28,223.41,2023-03-24
+ORD-1822,Anna Rogers,Home Office,United Kingdom,Central,Furniture,Chair,264.81,1,0.24,29.11,2023-07-29
+ORD-1823,Alexis Rivers,Home Office,Germany,Central,Technology,Printer,506.12,2,0.07,81.28,2023-05-31
+ORD-1824,Brandi Villanueva,Consumer,Germany,Central,Office Supplies,Paper,460.99,4,0.26,41.52,2023-07-16
+ORD-1825,Kristen Lopez,Corporate,Australia,Central,Technology,Phone,141.39,1,0.02,34.62,2023-05-19
+ORD-1826,Richard Stevenson,Corporate,Germany,South,Office Supplies,Stapler,654.06,2,0.21,115.5,2023-06-28
+ORD-1827,Ashley Clayton,Corporate,Germany,Central,Office Supplies,Paper,304.81,1,0.06,49.03,2023-09-02
+ORD-1828,Jessica Wilkerson,Home Office,Canada,East,Office Supplies,Binder,802.23,5,0.02,71.76,2023-04-19
+ORD-1829,Andrew Simmons,Home Office,Australia,West,Technology,Phone,1026.66,6,0.26,85.6,2023-09-18
+ORD-1830,Geoffrey Evans,Consumer,Australia,Central,Office Supplies,Binder,404.89,2,0.05,108.95,2023-12-29
+ORD-1831,Patty Lewis,Home Office,Canada,East,Furniture,Table,916.16,2,0.06,206.42,2023-04-17
+ORD-1832,Steven Harris,Consumer,United States,South,Technology,Phone,1333.56,10,0.03,189.34,2023-02-12
+ORD-1833,Joshua Chaney,Home Office,United States,East,Technology,Phone,2824.45,8,0.15,299.73,2023-06-15
+ORD-1834,Bobby Cooper,Consumer,Canada,Central,Office Supplies,Stapler,382.28,7,0.26,76.46,2023-09-01
+ORD-1835,Donna Cardenas,Corporate,Australia,West,Office Supplies,Binder,2760.29,7,0.01,811.61,2023-08-23
+ORD-1836,Amber Johnson,Consumer,France,South,Furniture,Bookcase,2969.49,10,0.14,156.14,2023-08-09
+ORD-1837,Heather Hernandez,Consumer,United Kingdom,South,Technology,Monitor,1949.98,7,0.22,222.41,2023-11-30
+ORD-1838,David Smith,Consumer,France,East,Furniture,Bookcase,857.11,4,0.11,172.79,2023-09-01
+ORD-1839,Marc Reese,Home Office,France,East,Furniture,Bookcase,2568.63,9,0.09,381.89,2023-02-19
+ORD-1840,Brian Barnes,Corporate,Canada,East,Technology,Monitor,396.23,5,0.15,53.41,2023-10-19
+ORD-1841,Taylor Cobb,Corporate,Canada,East,Office Supplies,Stapler,375.65,3,0.09,110.68,2023-10-02
+ORD-1842,Michael Rogers,Corporate,United Kingdom,Central,Office Supplies,Pen,1194.81,5,0.23,138.53,2023-04-03
+ORD-1843,Patricia Rodgers,Corporate,Germany,West,Office Supplies,Stapler,609.72,3,0.28,127.53,2023-03-13
+ORD-1844,Amber Smith DVM,Corporate,United States,West,Furniture,Chair,343.11,4,0.14,31.18,2023-08-25
+ORD-1845,Laura Hall,Corporate,Germany,East,Office Supplies,Paper,1167.24,8,0.21,199.95,2023-02-09
+ORD-1846,Joshua Foley,Corporate,United States,West,Furniture,Bookcase,199.89,2,0.09,51.72,2023-02-16
+ORD-1847,Michael Torres,Home Office,France,Central,Technology,Monitor,4990.2,10,0.0,1206.19,2023-05-14
+ORD-1848,Madison Smith,Consumer,Germany,East,Furniture,Sofa,880.72,2,0.01,194.05,2023-02-10
+ORD-1849,Kathleen Dillon,Home Office,United States,South,Office Supplies,Paper,501.86,6,0.02,129.32,2023-05-14
+ORD-1850,Holly Williams,Home Office,Germany,South,Technology,Printer,2991.78,10,0.1,182.38,2023-02-27
+ORD-1851,Joshua Jones,Home Office,Germany,Central,Technology,Monitor,1316.35,4,0.24,158.93,2023-12-23
+ORD-1852,Christine Molina,Consumer,Australia,East,Technology,Phone,390.34,2,0.05,113.69,2023-09-14
+ORD-1853,Vicki Burgess,Corporate,United States,East,Furniture,Table,2496.72,7,0.09,594.57,2023-03-16
+ORD-1854,Nicole Dougherty,Home Office,Canada,East,Office Supplies,Stapler,1867.77,7,0.28,515.38,2023-08-08
+ORD-1855,Michael Woods,Home Office,Canada,Central,Technology,Laptop,1332.12,6,0.15,361.48,2023-10-25
+ORD-1856,Tony Morris,Corporate,United Kingdom,South,Furniture,Sofa,1622.38,6,0.13,253.91,2023-01-10
+ORD-1857,Karl Morrow,Consumer,France,Central,Office Supplies,Binder,1174.4,3,0.16,248.75,2023-10-01
+ORD-1858,Jessica Miller,Consumer,United Kingdom,South,Office Supplies,Paper,880.26,8,0.3,194.61,2023-06-14
+ORD-1859,Brent Carpenter,Corporate,Canada,South,Office Supplies,Paper,423.23,9,0.01,32.55,2023-05-17
+ORD-1860,John Wells,Corporate,Germany,East,Office Supplies,Pen,793.09,6,0.02,139.47,2023-04-09
+ORD-1861,Chad Flowers,Consumer,Australia,South,Furniture,Table,198.23,7,0.12,44.82,2023-05-29
+ORD-1862,William Gordon,Corporate,France,South,Technology,Phone,3652.56,10,0.1,1020.99,2023-06-20
+ORD-1863,Kevin Bell DVM,Consumer,Canada,West,Furniture,Bookcase,440.67,2,0.01,65.54,2023-10-28
+ORD-1864,Amanda Hayes,Consumer,Canada,South,Office Supplies,Stapler,3327.87,10,0.09,842.89,2023-07-03
+ORD-1865,Martin Tyler,Home Office,United Kingdom,South,Office Supplies,Paper,214.91,3,0.06,54.59,2023-08-28
+ORD-1866,Robert Lee,Home Office,Canada,East,Furniture,Sofa,857.05,3,0.13,176.99,2023-01-05
+ORD-1867,Nancy Adams,Home Office,Canada,East,Office Supplies,Stapler,719.48,3,0.01,65.85,2023-07-01
+ORD-1868,Shawn Gordon,Consumer,Australia,South,Office Supplies,Stapler,353.67,1,0.18,35.49,2023-09-18
+ORD-1869,William Keith,Home Office,Germany,East,Office Supplies,Paper,503.86,2,0.21,148.57,2023-05-21
+ORD-1870,John Hughes,Corporate,Australia,Central,Furniture,Sofa,1424.61,7,0.18,289.02,2023-10-16
+ORD-1871,Audrey Joyce,Home Office,Germany,West,Technology,Laptop,144.32,9,0.17,27.18,2023-12-04
+ORD-1872,Hector May,Corporate,Australia,South,Office Supplies,Paper,2041.98,8,0.19,330.97,2023-01-18
+ORD-1873,Ashlee Williams,Corporate,United States,West,Office Supplies,Binder,1327.97,8,0.07,139.34,2023-11-11
+ORD-1874,Elizabeth Peterson,Home Office,United Kingdom,South,Furniture,Bookcase,2521.57,7,0.25,550.4,2023-08-06
+ORD-1875,Nicole Maldonado,Home Office,United Kingdom,South,Furniture,Table,1689.93,5,0.03,288.51,2023-10-06
+ORD-1876,Jim Morgan,Consumer,Canada,West,Technology,Phone,574.29,2,0.28,99.6,2023-10-05
+ORD-1877,Dawn Ward,Consumer,Canada,East,Furniture,Bookcase,878.51,5,0.05,225.77,2023-05-04
+ORD-1878,Ashley Cox,Home Office,United States,East,Office Supplies,Stapler,600.21,2,0.04,63.64,2023-02-19
+ORD-1879,Paul Johnson,Corporate,United Kingdom,Central,Furniture,Bookcase,950.54,3,0.26,191.13,2023-07-09
+ORD-1880,Lori Hamilton,Consumer,Australia,East,Office Supplies,Stapler,750.87,2,0.23,151.99,2023-10-29
+ORD-1881,Rhonda Jones,Consumer,France,East,Technology,Laptop,707.43,3,0.26,196.49,2023-11-16
+ORD-1882,Jeremy Hayes,Consumer,Australia,Central,Technology,Phone,1693.04,9,0.26,149.96,2023-03-20
+ORD-1883,Patricia Davidson,Corporate,United Kingdom,West,Furniture,Table,2988.34,8,0.23,154.34,2023-11-16
+ORD-1884,Donald Rich,Corporate,United Kingdom,Central,Technology,Monitor,221.75,2,0.21,34.09,2023-02-12
+ORD-1885,Patrick Brown,Home Office,Australia,West,Furniture,Sofa,270.12,4,0.13,75.5,2023-02-16
+ORD-1886,Kayla Wolfe,Corporate,France,Central,Furniture,Sofa,906.45,3,0.22,162.56,2023-11-25
+ORD-1887,Mary Little,Consumer,United States,Central,Office Supplies,Stapler,587.93,3,0.12,34.85,2023-07-23
+ORD-1888,Dr. Whitney Garcia MD,Home Office,Canada,East,Technology,Printer,1159.09,7,0.2,218.38,2023-03-19
+ORD-1889,Theresa Short,Corporate,Australia,Central,Office Supplies,Paper,1849.51,5,0.18,160.38,2023-06-29
+ORD-1890,Lauren Lopez,Corporate,Germany,West,Technology,Phone,2055.72,6,0.23,310.67,2023-06-21
+ORD-1891,Hector Coleman,Consumer,United Kingdom,East,Furniture,Bookcase,1994.54,7,0.22,162.56,2023-12-14
+ORD-1892,David Johnston,Home Office,United Kingdom,West,Furniture,Bookcase,1289.97,9,0.19,72.05,2023-12-17
+ORD-1893,Carl Stewart,Home Office,France,Central,Furniture,Bookcase,3351.61,7,0.03,217.81,2023-12-27
+ORD-1894,Joseph Johnson,Corporate,United Kingdom,Central,Furniture,Chair,381.6,2,0.17,19.58,2023-01-30
+ORD-1895,Robert Moore,Corporate,Canada,West,Office Supplies,Pen,1279.8,5,0.24,247.25,2023-02-07
+ORD-1896,Destiny Wilson,Consumer,Australia,South,Technology,Monitor,283.28,2,0.17,72.44,2023-02-26
+ORD-1897,Eric Wilson,Corporate,Germany,East,Furniture,Sofa,344.03,7,0.02,93.62,2023-04-17
+ORD-1898,Cynthia Collins,Corporate,Canada,South,Furniture,Bookcase,1548.9,9,0.17,379.03,2023-01-25
+ORD-1899,Amy Evans,Corporate,France,South,Technology,Phone,2002.29,8,0.28,466.39,2023-11-25
+ORD-1900,Mariah Hansen,Corporate,Canada,West,Technology,Monitor,2752.97,8,0.04,622.53,2023-11-09
+ORD-1901,Cheryl Clark,Home Office,United States,West,Office Supplies,Stapler,270.56,1,0.28,38.51,2023-07-25
+ORD-1902,Virginia Burgess,Consumer,France,South,Furniture,Chair,1723.55,6,0.01,152.23,2023-02-22
+ORD-1903,Heather Mack,Corporate,United Kingdom,Central,Office Supplies,Pen,182.09,8,0.04,44.78,2023-06-23
+ORD-1904,Donald Mcclain,Corporate,United States,Central,Office Supplies,Binder,1048.99,3,0.15,84.53,2023-04-13
+ORD-1905,Tracy Young,Corporate,United States,East,Office Supplies,Stapler,1391.05,10,0.14,187.03,2023-02-19
+ORD-1906,David Ford,Corporate,Germany,West,Furniture,Sofa,2587.7,8,0.04,600.26,2023-06-29
+ORD-1907,Deborah Cooper,Consumer,France,South,Office Supplies,Binder,1220.44,7,0.01,265.58,2023-09-01
+ORD-1908,Willie Burnett,Corporate,Australia,Central,Technology,Laptop,887.76,3,0.17,221.09,2023-02-19
+ORD-1909,Daniel Burns,Home Office,United Kingdom,East,Technology,Laptop,1606.18,4,0.16,384.53,2023-07-22
+ORD-1910,Philip Butler,Home Office,France,West,Office Supplies,Paper,558.67,2,0.16,162.35,2023-12-08
+ORD-1911,Patricia Thomas,Corporate,Canada,West,Technology,Phone,664.84,2,0.18,100.02,2023-01-16
+ORD-1912,Mark Smith,Consumer,Germany,East,Office Supplies,Stapler,473.57,3,0.26,61.25,2023-11-15
+ORD-1913,Lisa Thompson,Corporate,United States,East,Furniture,Table,370.67,5,0.08,26.84,2023-10-04
+ORD-1914,Mark Ruiz,Corporate,Germany,West,Furniture,Bookcase,68.53,3,0.02,10.11,2023-05-14
+ORD-1915,Matthew Smith,Corporate,Canada,South,Office Supplies,Pen,2408.7,7,0.27,151.67,2023-09-15
+ORD-1916,Jesse Braun,Consumer,France,West,Office Supplies,Stapler,255.51,2,0.1,48.11,2023-11-18
+ORD-1917,Robert Snyder,Consumer,Germany,East,Office Supplies,Binder,100.74,1,0.29,22.04,2023-06-09
+ORD-1918,Vincent Beard,Consumer,France,West,Office Supplies,Stapler,331.26,8,0.19,33.41,2023-08-09
+ORD-1919,Natalie Peterson,Consumer,United Kingdom,West,Furniture,Sofa,2082.15,9,0.0,345.98,2023-09-03
+ORD-1920,William Mathews,Home Office,United Kingdom,West,Furniture,Chair,1059.25,8,0.08,233.03,2023-09-28
+ORD-1921,Janice Foster,Corporate,Australia,West,Technology,Printer,74.84,1,0.16,5.05,2023-10-05
+ORD-1922,Benjamin Richardson,Consumer,Germany,East,Furniture,Bookcase,674.25,7,0.15,168.91,2023-05-26
+ORD-1923,Jason Martinez,Home Office,United Kingdom,Central,Technology,Phone,463.27,5,0.29,62.73,2023-08-11
+ORD-1924,Michelle Burke,Corporate,France,Central,Furniture,Table,308.31,1,0.0,16.15,2023-08-03
+ORD-1925,Traci Castro,Consumer,Germany,South,Office Supplies,Paper,399.95,2,0.27,101.59,2023-03-29
+ORD-1926,Jamie Stein,Corporate,Australia,East,Office Supplies,Stapler,1761.3,10,0.05,426.22,2023-07-03
+ORD-1927,Sharon Murray,Home Office,United States,East,Office Supplies,Pen,847.56,4,0.07,46.57,2023-12-23
+ORD-1928,Brent Skinner,Corporate,Australia,Central,Furniture,Chair,2404.41,10,0.24,253.15,2023-02-07
+ORD-1929,Judith Thompson,Corporate,United Kingdom,East,Office Supplies,Stapler,1057.03,10,0.06,269.84,2023-03-26
+ORD-1930,Jordan Sullivan,Corporate,United States,Central,Technology,Phone,672.89,3,0.2,128.81,2023-04-28
+ORD-1931,Gabriel Potts,Home Office,France,West,Furniture,Table,104.31,2,0.28,27.52,2023-01-25
+ORD-1932,Mary Williams,Home Office,Australia,Central,Furniture,Chair,2239.78,9,0.2,606.48,2023-09-11
+ORD-1933,Katie Mcneil,Consumer,Germany,East,Office Supplies,Stapler,807.97,7,0.2,134.65,2023-02-23
+ORD-1934,Michelle Miller,Corporate,France,East,Technology,Monitor,127.19,1,0.13,20.63,2023-07-02
+ORD-1935,Dr. Wanda White,Consumer,Germany,West,Office Supplies,Paper,2840.32,10,0.3,302.23,2023-01-06
+ORD-1936,Ryan Craig,Home Office,Germany,East,Furniture,Table,503.68,3,0.02,103.92,2023-02-25
+ORD-1937,Michelle Martin,Consumer,Germany,South,Furniture,Bookcase,563.77,5,0.14,163.32,2023-09-16
+ORD-1938,Robert Daugherty,Consumer,United Kingdom,West,Furniture,Sofa,525.26,2,0.17,37.49,2023-04-10
+ORD-1939,Billy Ramos,Consumer,United States,South,Office Supplies,Paper,92.07,3,0.24,5.86,2023-10-01
+ORD-1940,Stacy Lopez,Home Office,Australia,South,Furniture,Chair,258.48,1,0.09,37.57,2023-01-09
+ORD-1941,Joshua Robbins,Consumer,France,South,Furniture,Chair,1204.57,8,0.24,325.22,2023-06-19
+ORD-1942,Katherine Ryan,Home Office,United States,Central,Technology,Laptop,1728.1,8,0.18,133.07,2023-08-02
+ORD-1943,Karen Campbell,Consumer,France,East,Technology,Monitor,609.71,10,0.15,84.66,2023-09-22
+ORD-1944,Shawn Jacobson,Corporate,Australia,South,Furniture,Table,1177.59,3,0.02,150.63,2023-12-14
+ORD-1945,Jennifer Harris,Corporate,France,Central,Office Supplies,Binder,590.57,3,0.18,72.5,2023-02-06
+ORD-1946,Austin Ellis,Consumer,France,West,Furniture,Table,3073.16,9,0.17,195.61,2023-12-22
+ORD-1947,Angela Stanley,Corporate,Canada,West,Technology,Monitor,283.78,2,0.2,63.48,2023-07-09
+ORD-1948,Tanya Joseph,Corporate,France,Central,Technology,Printer,1411.38,10,0.1,107.56,2023-02-22
+ORD-1949,John Jordan,Consumer,Germany,West,Furniture,Table,897.14,4,0.06,152.68,2023-08-19
+ORD-1950,Jennifer Wyatt,Corporate,Australia,South,Furniture,Sofa,1244.34,3,0.0,65.29,2023-06-22
+ORD-1951,Thomas Estrada,Corporate,United States,East,Furniture,Bookcase,690.51,8,0.18,166.68,2023-11-08
+ORD-1952,Vanessa Valdez,Consumer,United States,West,Furniture,Bookcase,323.69,3,0.08,30.29,2023-05-22
+ORD-1953,Heather Kirk,Home Office,Canada,West,Furniture,Chair,926.39,3,0.27,51.18,2023-01-15
+ORD-1954,Andrew Smith,Home Office,Canada,South,Technology,Laptop,2559.1,6,0.09,281.6,2023-08-14
+ORD-1955,Jesse Jackson,Corporate,Australia,West,Technology,Phone,100.73,2,0.26,8.33,2023-02-05
+ORD-1956,Julia Copeland,Consumer,Canada,South,Technology,Printer,1294.1,6,0.29,143.82,2023-05-12
+ORD-1957,Elizabeth Wilson,Consumer,France,West,Technology,Printer,501.45,3,0.02,124.81,2023-11-15
+ORD-1958,Erin Garcia,Consumer,France,South,Furniture,Chair,2608.19,8,0.18,239.58,2023-04-04
+ORD-1959,Jeffery Nelson,Corporate,Australia,Central,Office Supplies,Stapler,447.73,3,0.11,100.12,2023-02-21
+ORD-1960,Jonathan Smith,Home Office,Germany,South,Office Supplies,Stapler,3086.68,10,0.06,844.89,2023-12-27
+ORD-1961,Christine Blake,Corporate,Canada,South,Furniture,Bookcase,2588.18,7,0.17,734.72,2023-09-04
+ORD-1962,Patrick Mason,Corporate,United Kingdom,East,Furniture,Chair,1013.75,5,0.11,198.69,2023-05-04
+ORD-1963,Ryan Sandoval,Corporate,France,Central,Office Supplies,Stapler,1580.14,8,0.11,275.55,2023-10-22
+ORD-1964,Joseph Shannon,Corporate,Germany,East,Furniture,Sofa,549.43,4,0.02,151.3,2023-04-14
+ORD-1965,Patrick Le,Corporate,France,East,Office Supplies,Binder,121.24,2,0.11,22.61,2023-01-12
+ORD-1966,Mandy Ford,Corporate,Canada,Central,Office Supplies,Pen,423.98,5,0.18,35.81,2023-07-27
+ORD-1967,Courtney Nunez,Home Office,Australia,Central,Furniture,Bookcase,1589.78,5,0.23,239.98,2023-04-26
+ORD-1968,Justin Macdonald,Corporate,France,East,Office Supplies,Binder,663.44,7,0.22,67.98,2023-08-16
+ORD-1969,Thomas Thomas,Consumer,France,South,Technology,Phone,2173.3,6,0.09,210.73,2023-03-20
+ORD-1970,Ryan Wright,Home Office,Germany,West,Office Supplies,Stapler,213.84,9,0.04,57.4,2023-02-27
+ORD-1971,Dr. Chris Boyd,Corporate,Australia,East,Office Supplies,Pen,628.96,6,0.13,149.79,2023-12-24
+ORD-1972,Sydney Burns,Home Office,France,Central,Office Supplies,Paper,2842.78,10,0.28,251.37,2023-05-28
+ORD-1973,James Reynolds,Corporate,France,South,Office Supplies,Binder,253.92,7,0.12,42.83,2023-12-23
+ORD-1974,Jennifer White,Corporate,France,South,Technology,Printer,150.4,2,0.2,14.2,2023-11-24
+ORD-1975,Angela Orozco,Home Office,France,South,Furniture,Table,125.1,4,0.29,15.13,2023-02-06
+ORD-1976,Craig Hernandez,Consumer,United Kingdom,East,Office Supplies,Paper,1505.26,6,0.05,398.78,2023-09-27
+ORD-1977,Danielle Stephenson,Corporate,Germany,West,Furniture,Table,1509.44,9,0.22,222.26,2023-07-28
+ORD-1978,Tammy Fowler,Consumer,Canada,West,Office Supplies,Stapler,582.99,8,0.17,74.38,2023-03-12
+ORD-1979,Mark Parker,Consumer,France,South,Office Supplies,Binder,431.2,1,0.13,110.45,2023-09-29
+ORD-1980,Sharon Stone,Home Office,Canada,Central,Technology,Phone,1874.82,8,0.01,136.44,2023-03-23
+ORD-1981,Mitchell Fisher,Home Office,Germany,Central,Technology,Printer,1651.22,7,0.24,154.85,2023-02-20
+ORD-1982,Jordan Ramirez,Consumer,Canada,South,Office Supplies,Stapler,1025.13,3,0.03,230.31,2023-10-31
+ORD-1983,Elizabeth Gonzales,Consumer,Canada,West,Office Supplies,Pen,549.18,2,0.22,57.29,2023-06-10
+ORD-1984,Nicole Garcia,Corporate,Germany,East,Office Supplies,Paper,396.01,2,0.23,60.4,2023-03-24
+ORD-1985,Rodney Mcpherson,Consumer,United Kingdom,West,Technology,Laptop,149.62,8,0.19,32.75,2023-08-31
+ORD-1986,Christie Harvey,Corporate,Germany,Central,Technology,Phone,817.48,4,0.0,64.31,2023-10-24
+ORD-1987,Benjamin Guzman,Consumer,United Kingdom,South,Office Supplies,Stapler,80.72,2,0.2,18.44,2023-09-08
+ORD-1988,Robert Allen,Corporate,Canada,South,Office Supplies,Binder,1035.32,3,0.18,97.64,2023-02-20
+ORD-1989,Billy Hunt,Consumer,France,South,Furniture,Chair,324.82,1,0.05,45.32,2023-02-24
+ORD-1990,Pamela Richardson,Consumer,Australia,East,Technology,Monitor,2108.4,8,0.25,533.17,2023-05-01
+ORD-1991,Megan Gonzales,Home Office,Australia,East,Office Supplies,Pen,285.44,8,0.0,69.39,2023-12-12
+ORD-1992,Stephen Garcia,Consumer,Canada,Central,Furniture,Table,35.36,2,0.01,1.9,2023-09-12
+ORD-1993,Michael Richmond,Consumer,Australia,East,Furniture,Chair,1083.37,3,0.01,192.98,2023-07-22
+ORD-1994,Courtney Adams,Corporate,United Kingdom,West,Technology,Monitor,1594.03,9,0.13,172.32,2023-06-27
+ORD-1995,Joseph Singh,Consumer,United Kingdom,Central,Furniture,Chair,2313.22,7,0.0,238.71,2023-02-21
+ORD-1996,Jennifer Sullivan DVM,Consumer,United States,Central,Technology,Printer,39.98,1,0.07,5.01,2023-03-21
+ORD-1997,Paul Carter,Home Office,Germany,East,Technology,Monitor,1967.71,5,0.18,581.17,2023-08-09
+ORD-1998,Savannah Vargas,Home Office,Germany,West,Office Supplies,Binder,2348.3,6,0.2,157.05,2023-02-17
+ORD-1999,Joe Robinson,Consumer,France,South,Office Supplies,Binder,1876.52,9,0.3,202.95,2023-11-21
+ORD-2000,Martin Bean,Home Office,United States,Central,Furniture,Sofa,1229.66,4,0.02,176.62,2023-07-24
